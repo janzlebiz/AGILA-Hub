@@ -1,0 +1,3811 @@
+{
+  "organization": {
+    "id": "org-tfoe-pe",
+    "name": "The Fraternal Order of Eagles",
+    "legalName": "The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE, Inc.)",
+    "type": "Fraternal Socio-Civic Order",
+    "logo": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=200&auto=format&fit=crop&q=80",
+    "description": "The premier Philippine-born fraternal socio-civic movement.",
+    "motto": "Service Through Strong Brotherhood (Humanitarian Service)"
+  },
+  "region": {
+    "id": "region-bcnbr1",
+    "organizationId": "org-tfoe-pe",
+    "name": "Bicol Camarines Norte Bantayog Region 1",
+    "code": "BCNBR-1",
+    "logo": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=200&auto=format&fit=crop&q=80",
+    "description": "Governing Region 1 of Camarines Norte chartered clubs.",
+    "status": "Active"
+  },
+  "club": {
+    "id": "club-beec",
+    "regionId": "region-bcnbr1",
+    "name": "Bantayog Elite Eagles Club",
+    "code": "BEEC",
+    "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=200&auto=format&fit=crop&q=80",
+    "banner": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&auto=format&fit=crop&q=80",
+    "colors": {
+      "primary": "#d97706",
+      "secondary": "#1e3a8a",
+      "accent": "#0f172a"
+    },
+    "description": "A distinguished chapter of visionary community leaders committed to fraternal unity and disaster response across Camarines Norte.",
+    "contactInfo": {
+      "email": "secretariat@bantayogeliteeagles.ph",
+      "phone": "+63 917 888 3333",
+      "address": "Bantayog Elite Eagles Club Hall, F. Pimentel Ave, Daet, Camarines Norte"
+    },
+    "meetingSchedule": "Every 2nd & 4th Saturday of the month at 6:00 PM",
+    "socialLinks": {
+      "facebook": "https://facebook.com/BantayogEliteEaglesClub",
+      "website": "https://bantayogelite.tfoe-peinc.com"
+    },
+    "charterDate": "2022-03-18",
+    "status": "Active"
+  },
+  "members": [
+    {
+      "id": "mem-aragon",
+      "membershipNumber": "TFOE-2022-04101",
+      "membershipCardId": "BEEC-2026-001",
+      "firstName": "Joy",
+      "middleName": "M.",
+      "lastName": "Aragon",
+      "nickname": "Joy",
+      "gender": "Male",
+      "birthdate": "1980-04-12",
+      "profilePhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 917 555 1001",
+      "email": "joy.aragon@bantayogeliteeagles.ph",
+      "address": "Daet, Camarines Norte",
+      "occupation": "Business Proprietor & Civic Leader",
+      "companyBusiness": "Aragon Commercial Enterprises",
+      "emergencyContact": {
+        "name": "Elena Aragon",
+        "relation": "Spouse",
+        "mobile": "+63 917 555 1002"
+      },
+      "dateJoined": "2022-03-18",
+      "dateInducted": "2022-04-09",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Club President (2026-2028)"
+      ],
+      "roles": [
+        "President",
+        "Club_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "MEMBER_DIRECTORY_VIEW",
+        "MEMBER_APPROVE",
+        "MEMBER_RECORD_MANAGE",
+        "ATTENDANCE_ADMIN",
+        "ANNOUNCEMENT_CREATE",
+        "ANNOUNCEMENT_PUBLISH",
+        "COMMUNITY_SERVICE_MANAGE",
+        "FINANCE_VIEW_CLUB",
+        "DOCUMENT_MANAGE",
+        "REPORT_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-1",
+          "date": "2022-03-18",
+          "type": "Joined",
+          "description": "Charter Member of Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "National Secretariat"
+        },
+        {
+          "id": "mh-2",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Inducted as Club President (2026-2028 Term)",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Regional Execom"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1hcmFnb24iLCJtZW1iZXJOdW1iZXIiOiJURk9FLTIwMjItMDQxMDEiLCJjbHViQ29kZSI6IkJFRUMiLCJpc3N1ZWRBdCI6MTc5MDk4NjAzNzExNCwibm9uY2UiOiI2MzdlMGRlM2NlYjM0MWE1In0.dfd0b08ede242a39d39cdb1f8b85b0b4b9dce18a7bf1a00bcb61f626678cb4cd",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-rait",
+      "membershipNumber": "TFOE-2022-04102",
+      "membershipCardId": "BEEC-2026-002",
+      "firstName": "Genmil",
+      "middleName": "M.",
+      "lastName": "Rait",
+      "nickname": "Genmil",
+      "gender": "Male",
+      "birthdate": "1982-08-19",
+      "profilePhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 918 555 2002",
+      "email": "genmil.rait@bantayogeliteeagles.ph",
+      "address": "Daet, Camarines Norte",
+      "occupation": "Architectural Consultant",
+      "companyBusiness": "Rait Designs & Construction",
+      "emergencyContact": {
+        "name": "Rowena Rait",
+        "relation": "Spouse",
+        "mobile": "+63 918 555 2003"
+      },
+      "dateJoined": "2022-03-18",
+      "dateInducted": "2022-04-09",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Club Vice President (2026-2028)"
+      ],
+      "roles": [
+        "Vice_President",
+        "Club_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "MEMBER_DIRECTORY_VIEW",
+        "MEMBER_APPROVE",
+        "ATTENDANCE_ADMIN",
+        "COMMUNITY_SERVICE_MANAGE",
+        "DOCUMENT_VIEW",
+        "REPORT_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-3",
+          "date": "2022-03-18",
+          "type": "Joined",
+          "description": "Charter Member of Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "National Secretariat"
+        },
+        {
+          "id": "mh-4",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Installed as Club Vice President (2026-2028)",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Pres. Joy Aragon"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1yYWl0IiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDIyLTA0MTAyIiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiMDRiNDgxMjQ3ZDNlNTc3MiJ9.7ff52fc9f224d8bdcb757b41167cd189bf466c0408c044a1c64967785fe15d69",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-camacho",
+      "membershipNumber": "TFOE-2022-04198",
+      "membershipCardId": "BEEC-2026-003",
+      "firstName": "Chester Jan",
+      "middleName": "T.",
+      "lastName": "Camacho",
+      "nickname": "Chester",
+      "gender": "Male",
+      "birthdate": "1984-06-15",
+      "profilePhoto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 917 888 3333",
+      "email": "chester.camacho@gmail.com",
+      "address": "F. Pimentel Ave, Daet, Camarines Norte",
+      "occupation": "Civil Engineer & Corporate Executive",
+      "companyBusiness": "Camacho Builders & Engineering",
+      "emergencyContact": {
+        "name": "Maria Elena Camacho",
+        "relation": "Spouse",
+        "mobile": "+63 917 888 3334"
+      },
+      "dateJoined": "2022-03-18",
+      "dateInducted": "2022-04-09",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Club Secretary (2026-2028)",
+        "Regional Protocol Deputy (BCNBR-1)"
+      ],
+      "roles": [
+        "Secretary",
+        "Club_Admin",
+        "Regional_Officer"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "MEMBER_DIRECTORY_VIEW",
+        "MEMBER_RECORD_MANAGE",
+        "MEMBER_APPROVE",
+        "ATTENDANCE_ADMIN",
+        "ATTENDANCE_SCAN",
+        "ATTENDANCE_CORRECTION_MANAGE",
+        "ANNOUNCEMENT_CREATE",
+        "ANNOUNCEMENT_PUBLISH",
+        "DOCUMENT_MANAGE",
+        "REPORT_VIEW",
+        "DATA_EXPORT",
+        "DATA_IMPORT",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-5",
+          "date": "2022-03-18",
+          "type": "Joined",
+          "description": "Charter Member of Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "National Secretariat"
+        },
+        {
+          "id": "mh-6",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Reappointed Club Secretary (2026-2028 Term)",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Pres. Joy Aragon"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1jYW1hY2hvIiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDIyLTA0MTk4IiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiY2Q0YjJhOWM0NWM3Y2M3NiJ9.4ddcca5b0f352a6fde8d74dc294e4fac9ab60e0e6db9e20b772c44f52907948c",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-talento",
+      "membershipNumber": "TFOE-2022-04104",
+      "membershipCardId": "BEEC-2026-004",
+      "firstName": "Joenathan",
+      "middleName": "L.",
+      "lastName": "Talento",
+      "nickname": "Joenathan",
+      "gender": "Male",
+      "birthdate": "1986-09-10",
+      "profilePhoto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 919 444 4004",
+      "email": "joenathan.talento@bantayogeliteeagles.ph",
+      "address": "Daet, Camarines Norte",
+      "occupation": "Financial Consultant & CPA",
+      "companyBusiness": "Talento Accountancy & Advisory",
+      "emergencyContact": {
+        "name": "Aileen Talento",
+        "relation": "Spouse",
+        "mobile": "+63 919 444 4005"
+      },
+      "dateJoined": "2022-03-18",
+      "dateInducted": "2022-04-09",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Club Treasurer (2026-2028)"
+      ],
+      "roles": [
+        "Treasurer",
+        "Finance_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "FINANCE_VIEW_SELF",
+        "FINANCE_MANAGE",
+        "FINANCE_RECORD_PAYMENT",
+        "FINANCE_REPORT",
+        "REPORT_VIEW",
+        "DATA_EXPORT",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-7",
+          "date": "2022-03-18",
+          "type": "Joined",
+          "description": "Charter Member of Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "National Secretariat"
+        },
+        {
+          "id": "mh-8",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Installed as Club Treasurer (2026-2028 Term)",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Pres. Joy Aragon"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS10YWxlbnRvIiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDIyLTA0MTA0IiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiNDkzNTVkMTU3MWZkZTFmNSJ9.fd334f937c29d5ddf9e4f67713207fa17903e427a35fa8944befdc77942a0acd",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-mago",
+      "membershipNumber": "TFOE-2022-04105",
+      "membershipCardId": "BEEC-2026-005",
+      "firstName": "Jeric",
+      "middleName": "R.",
+      "lastName": "Mago",
+      "nickname": "Jeric",
+      "gender": "Male",
+      "birthdate": "1988-12-04",
+      "profilePhoto": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 920 333 5005",
+      "email": "jeric.mago@bantayogeliteeagles.ph",
+      "address": "Vinzons, Camarines Norte",
+      "occupation": "Internal Auditor & Tax Practitioner",
+      "companyBusiness": "Mago Audit Partners",
+      "emergencyContact": {
+        "name": "Catherine Mago",
+        "relation": "Spouse",
+        "mobile": "+63 920 333 5006"
+      },
+      "dateJoined": "2022-03-18",
+      "dateInducted": "2022-04-09",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Club Auditor (2026-2028)"
+      ],
+      "roles": [
+        "Auditor",
+        "Finance_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "FINANCE_VIEW_SELF",
+        "FINANCE_REPORT",
+        "AUDIT_LOG_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-9",
+          "date": "2022-03-18",
+          "type": "Joined",
+          "description": "Charter Member of Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "National Secretariat"
+        },
+        {
+          "id": "mh-10",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Designated Club Auditor (2026-2028)",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Pres. Joy Aragon"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1tYWdvIiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDIyLTA0MTA1IiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiNGI1YjJmNDg2YWVjNDc1YiJ9.4dbdbd6b1b08da552425d3a162e90330aa7a7ec21b42a34b2b8791ad5416f331",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-giron",
+      "membershipNumber": "TFOE-2024-07821",
+      "membershipCardId": "BEEC-2026-006",
+      "firstName": "Aris",
+      "middleName": "G.",
+      "lastName": "Giron",
+      "nickname": "Aris",
+      "gender": "Male",
+      "birthdate": "1991-01-14",
+      "profilePhoto": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 921 111 6006",
+      "email": "aris.giron@bantayogeliteeagles.ph",
+      "address": "Daet, Camarines Norte",
+      "occupation": "Broadcaster & Media Communications Director",
+      "companyBusiness": "Vanguard Media Bicol",
+      "emergencyContact": {
+        "name": "Eduardo Giron",
+        "relation": "Father",
+        "mobile": "+63 921 111 6007"
+      },
+      "dateJoined": "2024-02-18",
+      "dateInducted": "2024-03-10",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Public Information Officer (PIO) (2026-2028)"
+      ],
+      "roles": [
+        "PIO"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "ANNOUNCEMENT_CREATE",
+        "ANNOUNCEMENT_PUBLISH",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-11",
+          "date": "2024-02-18",
+          "type": "Joined",
+          "description": "Inducted into Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Sec. Chester Camacho"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1naXJvbiIsIm1lbWJlck51bWJlciI6IlRGT0UtMjAyNC0wNzgyMSIsImNsdWJDb2RlIjoiQkVFQyIsImlzc3VlZEF0IjoxNzkwOTg2MDM3MTE2LCJub25jZSI6IjI2ZTcyYjk3MmY3NDNiOTUifQ.b5dd3d93f6f057a4e3fb2cd7f0f0c78637ec507fcaf4c5729fd2789bb036e309",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-morales",
+      "membershipNumber": "TFOE-2023-06100",
+      "membershipCardId": "BEEC-2026-007",
+      "firstName": "Dave",
+      "middleName": "P.",
+      "lastName": "Morales",
+      "nickname": "Dave",
+      "gender": "Male",
+      "birthdate": "1985-08-25",
+      "profilePhoto": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 920 222 7007",
+      "email": "dave.morales@bantayogeliteeagles.ph",
+      "address": "Mercedes, Camarines Norte",
+      "occupation": "Surgeon / Provincial Medical Officer",
+      "companyBusiness": "Camarines Norte Provincial Health Complex",
+      "emergencyContact": {
+        "name": "Dr. Jocelyn Morales",
+        "relation": "Spouse",
+        "mobile": "+63 920 222 7008"
+      },
+      "dateJoined": "2023-05-12",
+      "dateInducted": "2023-06-03",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Community Service Committee Chairman (2026-2028)"
+      ],
+      "roles": [
+        "Community_Service_Chair",
+        "Project_Lead"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "COMMUNITY_SERVICE_MANAGE",
+        "TASK_MANAGE",
+        "DOCUMENT_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-12",
+          "date": "2023-05-12",
+          "type": "Joined",
+          "description": "Inducted into Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Sec. Chester Camacho"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1tb3JhbGVzIiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDIzLTA2MTAwIiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiYTU4Njc0NzdmOGY0NmYzNiJ9.c6eb30f3ec70de3c17c5470a8f8261a42c4cd9a0b9002cf935fdd6f906a2e42d",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-bautista",
+      "membershipNumber": "TFOE-2023-05912",
+      "membershipCardId": "BEEC-2026-008",
+      "firstName": "Mark",
+      "middleName": "D.",
+      "lastName": "Bautista",
+      "nickname": "Mark",
+      "gender": "Male",
+      "birthdate": "1989-03-08",
+      "profilePhoto": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 919 777 8008",
+      "email": "mark.bautista@bantayogeliteeagles.ph",
+      "address": "Talisay, Camarines Norte",
+      "occupation": "Logistics Operations Director",
+      "companyBusiness": "Bautista Freight & Express",
+      "emergencyContact": {
+        "name": "Grace Bautista",
+        "relation": "Sister",
+        "mobile": "+63 919 777 8009"
+      },
+      "dateJoined": "2023-01-20",
+      "dateInducted": "2023-02-15",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Protocol Officer / Sergeant-at-Arms (2026-2028)"
+      ],
+      "roles": [
+        "Protocol_Officer"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "ATTENDANCE_SCAN",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-13",
+          "date": "2023-01-20",
+          "type": "Joined",
+          "description": "Inducted into Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Sec. Chester Camacho"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1iYXV0aXN0YSIsIm1lbWJlck51bWJlciI6IlRGT0UtMjAyMy0wNTkxMiIsImNsdWJDb2RlIjoiQkVFQyIsImlzc3VlZEF0IjoxNzkwOTg2MDM3MTE2LCJub25jZSI6ImQ4NjNkMzgxOWM5ZTk2OWYifQ.79c7aa3b110c3c495312ac8e113786a29e02de89f9a728358421e5fd6ff500ef",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-ecat",
+      "membershipNumber": "TFOE-2016-00889",
+      "membershipCardId": "BCNBR1-2026-001",
+      "firstName": "Joel",
+      "middleName": "O.",
+      "lastName": "Ecat",
+      "nickname": "Joel",
+      "gender": "Male",
+      "birthdate": "1975-05-18",
+      "profilePhoto": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 917 333 9009",
+      "email": "governor@bcnbr1.tfoe-peinc.com",
+      "address": "Daet, Camarines Norte",
+      "occupation": "Regional Enterprise Director",
+      "companyBusiness": "Ecat Holdings & Realty",
+      "emergencyContact": {
+        "name": "Liza Ecat",
+        "relation": "Spouse",
+        "mobile": "+63 917 333 9010"
+      },
+      "dateJoined": "2016-02-10",
+      "dateInducted": "2016-03-01",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Regional Governor, BCNBR-1 (2026-2028)"
+      ],
+      "roles": [
+        "Regional_Officer",
+        "Club_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "REGIONAL_VIEW",
+        "REGIONAL_ADMIN",
+        "REPORT_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-14",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Assumed Office as Regional Governor BCNBR-1 (2026-2028 Term)",
+          "clubName": "Bicol Camarines Norte Bantayog Region 1",
+          "recordedBy": "National Assembly"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1lY2F0IiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDE2LTAwODg5IiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTYsIm5vbmNlIjoiNzE4YzNhMDkxYWFjMmRlMiJ9.ca2024f7349acfcd19426111dfda40d59dea81365127709f31861482f8755cf7",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-devera",
+      "membershipNumber": "TFOE-2014-00120",
+      "membershipCardId": "NAT-2026-001",
+      "firstName": "Gabriel",
+      "middleName": "P.",
+      "lastName": "De Vera",
+      "nickname": "Gabriel",
+      "gender": "Male",
+      "birthdate": "1974-11-23",
+      "profilePhoto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 917 111 0001",
+      "email": "gabriel.devera@tfoe-peinc.com",
+      "address": "Quezon City, Metro Manila",
+      "occupation": "National Systems Custodian & Legal Tech Counsel",
+      "companyBusiness": "TFOE-PE National Headquarters",
+      "emergencyContact": {
+        "name": "Grace De Vera",
+        "relation": "Spouse",
+        "mobile": "+63 917 111 0002"
+      },
+      "dateJoined": "2014-01-15",
+      "dateInducted": "2014-02-20",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "National Technical Custodian",
+        "e-Constitution Systems Administrator"
+      ],
+      "roles": [
+        "National_Admin",
+        "Master_Admin"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "NATIONAL_ADMIN",
+        "CONSTITUTION_SOURCE_MANAGE",
+        "CONSTITUTION_REINDEX",
+        "CONSTITUTION_SYNC_VIEW",
+        "CONSTITUTION_AUDIT_VIEW",
+        "AUDIT_LOG_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-15",
+          "date": "2026-01-01",
+          "type": "Position Assigned",
+          "description": "Designated National Systems Administrator & Constitution Custodian",
+          "clubName": "TFOE-PE National",
+          "recordedBy": "National Assembly"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1kZXZlcmEiLCJtZW1iZXJOdW1iZXIiOiJURk9FLTIwMTQtMDAxMjAiLCJjbHViQ29kZSI6IkJFRUMiLCJpc3N1ZWRBdCI6MTc5MDk4NjAzNzExNywibm9uY2UiOiI1YjFjYzllZGRkNDI0MjBhIn0.921cf247c2e5a634aa8575ae013a04950f82b122e2c75fbf5098cf0af0d0abd5",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-delgado",
+      "membershipNumber": "TFOE-2024-08015",
+      "membershipCardId": "BEEC-2026-009",
+      "firstName": "Maria",
+      "middleName": "Santos",
+      "lastName": "Delgado",
+      "nickname": "Maria",
+      "gender": "Female",
+      "birthdate": "1992-04-12",
+      "profilePhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 922 999 7777",
+      "email": "maria.delgado@bantayogeliteeagles.ph",
+      "address": "Jose Panganiban, Camarines Norte",
+      "occupation": "Licensed Pharmacist & Community Retailer",
+      "companyBusiness": "Delgado Pharma & Health Supplies",
+      "emergencyContact": {
+        "name": "Antonio Delgado",
+        "relation": "Brother",
+        "mobile": "+63 922 999 7778"
+      },
+      "dateJoined": "2024-05-10",
+      "dateInducted": "2024-06-01",
+      "membershipStatus": "Active",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Lady Eagle / Regular Member"
+      ],
+      "roles": [
+        "Member"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "MEMBER_EDIT_SELF",
+        "DIGITAL_ID_VIEW",
+        "ATTENDANCE_VIEW_SELF",
+        "FINANCE_VIEW_SELF",
+        "DOCUMENT_VIEW",
+        "CONSTITUTION_VIEW",
+        "CONSTITUTION_AI_ASK"
+      ],
+      "privacySettings": {
+        "hideMobile": true,
+        "hideEmail": false,
+        "hideAddress": true
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-16",
+          "date": "2024-05-10",
+          "type": "Joined",
+          "description": "Inducted as Lady Eagle into Bantayog Elite Eagles Club",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Sec. Chester Camacho"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1kZWxnYWRvIiwibWVtYmVyTnVtYmVyIjoiVEZPRS0yMDI0LTA4MDE1IiwiY2x1YkNvZGUiOiJCRUVDIiwiaXNzdWVkQXQiOjE3OTA5ODYwMzcxMTcsIm5vbmNlIjoiODJhZDYzMDY1YTg1NjQwNyJ9.38a03b28f441addfd0c6805bfbd5fbfd30ce91b607ab1ba162a1acc153c5c495",
+      "failedLoginAttempts": 0
+    },
+    {
+      "id": "mem-joel-pending",
+      "membershipNumber": "TFOE-APP-2026-010",
+      "membershipCardId": "BEEC-APP-010",
+      "firstName": "Joel",
+      "middleName": "Navarro",
+      "lastName": "Santos",
+      "nickname": "Joel",
+      "gender": "Male",
+      "birthdate": "1993-07-22",
+      "profilePhoto": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+      "mobile": "+63 928 777 9009",
+      "email": "joel.navarro@gmail.com",
+      "address": "Basud, Camarines Norte",
+      "occupation": "Agri-Business Producer",
+      "companyBusiness": "Basud Agro-Harvest Ventures",
+      "emergencyContact": {
+        "name": "Rebecca Navarro",
+        "relation": "Mother",
+        "mobile": "+63 928 777 9010"
+      },
+      "dateJoined": "2026-02-01",
+      "dateInducted": "Pending Induction",
+      "membershipStatus": "Pending Approval",
+      "previousClub": "None (First-time Applicant)",
+      "primaryClubId": "club-beec",
+      "regionId": "region-bcnbr1",
+      "positions": [
+        "Applicant"
+      ],
+      "roles": [
+        "Applicant"
+      ],
+      "permissions": [
+        "MEMBER_VIEW_SELF",
+        "CONSTITUTION_VIEW"
+      ],
+      "privacySettings": {
+        "hideMobile": false,
+        "hideEmail": false,
+        "hideAddress": false
+      },
+      "membershipHistory": [
+        {
+          "id": "mh-17",
+          "date": "2026-02-01",
+          "type": "Joined",
+          "description": "Submitted digital self-registration. Sponsored by Kuya Joy Aragon & Kuya Chester Camacho.",
+          "clubName": "Bantayog Elite Eagles Club",
+          "recordedBy": "Self-Registration"
+        }
+      ],
+      "passwordHash": "4da4d2cc9a0ba3c127ef9a349632486a395fdbe94a22d1033027ecc06469f828e48caa7475ff54b0ba143fc8acbd11de2b78ecbbb79cbf7c2ff1173b08731593",
+      "passwordSalt": "40a46e90fb4ae41babcd6e50ce407067",
+      "qrOpaqueCode": "agila://verify/v2/eyJtZW1iZXJJZCI6Im1lbS1qb2VsLXBlbmRpbmciLCJtZW1iZXJOdW1iZXIiOiJURk9FLUFQUC0yMDI2LTAxMCIsImNsdWJDb2RlIjoiQkVFQyIsImlzc3VlZEF0IjoxNzkwOTg2MDM3MTE3LCJub25jZSI6Ijk4M2RjYWY1YjI0ZWI5NGYifQ.11982c831e565043aa40bff431f05415121c1c1489521c530475454ceabf4d45",
+      "failedLoginAttempts": 0
+    }
+  ],
+  "meetings": [
+    {
+      "id": "meet-1",
+      "scope": "Club",
+      "clubId": "club-beec",
+      "type": "GMM",
+      "title": "Bantayog Elite 2nd Regular GMM (October 2026)",
+      "date": "2026-10-10",
+      "time": "18:00 - 21:00 PST",
+      "location": "Bantayog Elite Club Hall, Daet, Camarines Norte",
+      "venueType": "In-Person",
+      "description": "Mandatory monthly General Membership Meeting to review Q3 accomplishments, mobilize for the Daet Medical Outreach, and present financial standing.",
+      "status": "Scheduled",
+      "createdBy": "Kuya Chester Jan Camacho",
+      "agendaItems": [
+        "Call to Order & Invocation to Divine Providence",
+        "Singing of National Anthem & Eagles Hymn",
+        "Roll Call of Officers & Quorum Declaration by Sec. Chester Camacho",
+        "Presidential Address by Kuya Joy Aragon",
+        "Treasurer’s Report by Kuya Joenathan Talento",
+        "Community Service Briefing by Kuya Dave Morales",
+        "Fraternal Fellowship & Dinner"
+      ],
+      "qrCheckinCode": "tfoe-gmm-beec-2026-10-10-token-84129"
+    },
+    {
+      "id": "meet-2",
+      "scope": "Club",
+      "clubId": "club-beec",
+      "type": "Club Executive Committee Meeting",
+      "title": "Executive Council Strategic Planning Session",
+      "date": "2026-10-05",
+      "time": "19:00 - 21:30 PST",
+      "location": "The Executive Lounge, Daet Hotel, Daet",
+      "venueType": "Hybrid",
+      "description": "Review applicant dossiers, finalize Medical Mission task force assignments, and audit dues remittance compliance.",
+      "status": "In Progress",
+      "createdBy": "Kuya Joy Aragon",
+      "agendaItems": [
+        "Review of Pending Applicant Dossiers",
+        "Task Assignments for Medical Mission",
+        "Treasurer Ledger Audit"
+      ],
+      "qrCheckinCode": "tfoe-execom-beec-2026-10-05-token-39102"
+    }
+  ],
+  "attendanceRecords": [
+    {
+      "id": "att-1",
+      "meetingId": "meet-1",
+      "memberId": "mem-aragon",
+      "memberName": "Joy Aragon",
+      "memberNickname": "Joy",
+      "memberNumber": "TFOE-2022-04101",
+      "method": "Officer Manual Entry",
+      "status": "Present",
+      "timestamp": "2026-10-02 18:00 PST",
+      "recordedBy": "Sec. Chester Camacho"
+    },
+    {
+      "id": "att-2",
+      "meetingId": "meet-1",
+      "memberId": "mem-camacho",
+      "memberName": "Chester Jan Camacho",
+      "memberNickname": "Chester",
+      "memberNumber": "TFOE-2022-04198",
+      "method": "QR Scan",
+      "status": "Present",
+      "timestamp": "2026-10-02 18:02 PST",
+      "recordedBy": "Sec. Chester Camacho"
+    },
+    {
+      "id": "att-3",
+      "meetingId": "meet-1",
+      "memberId": "mem-talento",
+      "memberName": "Joenathan Talento",
+      "memberNickname": "Joenathan",
+      "memberNumber": "TFOE-2022-04104",
+      "method": "QR Scan",
+      "status": "Present",
+      "timestamp": "2026-10-02 18:05 PST",
+      "recordedBy": "Sec. Chester Camacho"
+    }
+  ],
+  "attendanceCorrections": [],
+  "projects": [
+    {
+      "id": "proj-1",
+      "clubId": "club-beec",
+      "title": "Bantayog Eagle Health: Medical & Dental Outreach",
+      "description": "Comprehensive medical consultations, dental extractions, eye check-ups, and free medicines for 500+ underprivileged residents in Barangay Bagasbas, Daet.",
+      "category": "Health & Medical",
+      "date": "2026-10-18",
+      "location": "Bagasbas Elementary School Grounds, Daet",
+      "beneficiaries": "Impoverished fisherfolk and coastal households",
+      "beneficiaryCount": 520,
+      "budget": 150000,
+      "actualExpense": 85000,
+      "status": "Ongoing",
+      "projectLeadId": "mem-morales",
+      "projectLeadName": "Kuya Dave P. Morales, MD",
+      "sponsors": [
+        "Provincial Health Office",
+        "Camacho Builders",
+        "Delgado Pharma"
+      ],
+      "photos": [
+        "https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?w=800&auto=format&fit=crop&q=80"
+      ],
+      "volunteers": [
+        {
+          "memberId": "mem-morales",
+          "memberName": "Dave Morales",
+          "memberNickname": "Dave",
+          "role": "Head Medical Director",
+          "hoursLogged": 16,
+          "checkedIn": true
+        },
+        {
+          "memberId": "mem-camacho",
+          "memberName": "Chester Camacho",
+          "memberNickname": "Chester",
+          "role": "Logistics Coordinator",
+          "hoursLogged": 12,
+          "checkedIn": true
+        },
+        {
+          "memberId": "mem-delgado",
+          "memberName": "Maria Delgado",
+          "memberNickname": "Maria",
+          "role": "Pharmacy Head",
+          "hoursLogged": 10,
+          "checkedIn": true
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task-1",
+          "projectId": "proj-1",
+          "title": "Procure Antibiotics & Pediatric Vitamins Consignment",
+          "description": "Order wholesale lot from Delgado Pharma with batch inspection certificates.",
+          "assigneeId": "mem-delgado",
+          "assigneeName": "Maria Delgado",
+          "assigneeNickname": "Maria",
+          "assigneePhoto": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&auto=format&fit=crop&q=80",
+          "dueDate": "2026-10-12",
+          "priority": "Urgent",
+          "status": "In Progress",
+          "createdAt": "2026-09-25"
+        },
+        {
+          "id": "task-2",
+          "projectId": "proj-1",
+          "title": "Coordinate Venue Clearance with Bagasbas Barangay Council",
+          "description": "Secure permit for covered court and crowd marshals.",
+          "assigneeId": "mem-camacho",
+          "assigneeName": "Chester Camacho",
+          "assigneeNickname": "Chester",
+          "assigneePhoto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+          "dueDate": "2026-10-08",
+          "priority": "High",
+          "status": "Completed",
+          "createdAt": "2026-09-22"
+        }
+      ]
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx-rev-1790986277281",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Reversal: Annual Membership Dues",
+      "amount": -5000,
+      "referenceNumber": "REV-OR-TEST-1790986277277",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-03",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "journalEntryId": "je-rev-1790986277281",
+      "notes": "Reversal of transaction tx-1790986277278. Reason: Duplicate payment entry reversal"
+    },
+    {
+      "id": "tx-1790986277278",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Annual Membership Dues",
+      "amount": 5000,
+      "referenceNumber": "OR-TEST-1790986277277",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-02",
+      "recordedBy": "Kuya Joenathan Talento",
+      "status": "Reversed",
+      "journalEntryId": "je-1790986277278"
+    },
+    {
+      "id": "tx-rev-1790986079903",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Reversal: Annual Membership Dues",
+      "amount": -5000,
+      "referenceNumber": "REV-OR-TEST-1790986079900",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-03",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "journalEntryId": "je-rev-1790986079903",
+      "notes": "Reversal of transaction tx-1790986079901. Reason: Duplicate payment entry reversal"
+    },
+    {
+      "id": "tx-1790986079901",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Annual Membership Dues",
+      "amount": 5000,
+      "referenceNumber": "OR-TEST-1790986079900",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-02",
+      "recordedBy": "Kuya Joenathan Talento",
+      "status": "Reversed",
+      "journalEntryId": "je-1790986079901"
+    },
+    {
+      "id": "tx-rev-1790986057667",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Reversal: Annual Membership Dues",
+      "amount": -5000,
+      "referenceNumber": "REV-OR-TEST-1790986057665",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-03",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "journalEntryId": "je-rev-1790986057667",
+      "notes": "Reversal of transaction tx-1790986057665. Reason: Duplicate payment entry reversal"
+    },
+    {
+      "id": "tx-1790986057665",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Annual Membership Dues",
+      "amount": 5000,
+      "referenceNumber": "OR-TEST-1790986057665",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-02",
+      "recordedBy": "Kuya Joenathan Talento",
+      "status": "Reversed",
+      "journalEntryId": "je-1790986057665"
+    },
+    {
+      "id": "tx-rev-1790986037748",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Reversal: Annual Membership Dues",
+      "amount": -5000,
+      "referenceNumber": "REV-OR-TEST-1790986037746",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-03",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "journalEntryId": "je-rev-1790986037748",
+      "notes": "Reversal of transaction tx-1790986037747. Reason: Duplicate payment entry reversal"
+    },
+    {
+      "id": "tx-1790986037747",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Annual Membership Dues",
+      "amount": 5000,
+      "referenceNumber": "OR-TEST-1790986037746",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-10-02",
+      "recordedBy": "Kuya Joenathan Talento",
+      "status": "Reversed",
+      "journalEntryId": "je-1790986037747"
+    },
+    {
+      "id": "tx-1",
+      "clubId": "club-beec",
+      "memberId": "mem-aragon",
+      "memberName": "Kuya Joy M. Aragon",
+      "memberNumber": "TFOE-2022-04101",
+      "type": "Annual Membership Dues",
+      "amount": 6000,
+      "referenceNumber": "OR-2026-001",
+      "paymentMethod": "Bank Transfer",
+      "date": "2026-01-15",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "notes": "Full annual club membership dues for 2026"
+    },
+    {
+      "id": "tx-2",
+      "clubId": "club-beec",
+      "memberId": "mem-camacho",
+      "memberName": "Kuya Chester Jan Camacho",
+      "memberNumber": "TFOE-2022-04198",
+      "type": "Annual Membership Dues",
+      "amount": 6000,
+      "referenceNumber": "OR-2026-002",
+      "paymentMethod": "GCash",
+      "date": "2026-01-18",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "notes": "Full annual club membership dues for 2026"
+    },
+    {
+      "id": "tx-3",
+      "clubId": "club-beec",
+      "memberId": "mem-camacho",
+      "memberName": "Kuya Chester Jan Camacho",
+      "memberNumber": "TFOE-2022-04198",
+      "type": "Regional Dues",
+      "amount": 2000,
+      "referenceNumber": "OR-2026-003",
+      "paymentMethod": "GCash",
+      "date": "2026-01-18",
+      "recordedBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Verified",
+      "notes": "BCNBR-1 regional capitation remittance"
+    }
+  ],
+  "chartOfAccounts": [
+    {
+      "code": "1010",
+      "name": "Cash & Bank Balances",
+      "type": "Asset",
+      "normalBalance": "Debit"
+    },
+    {
+      "code": "1020",
+      "name": "Accounts Receivable (Member Dues)",
+      "type": "Asset",
+      "normalBalance": "Debit"
+    },
+    {
+      "code": "2010",
+      "name": "Regional Dues Remittance Payable",
+      "type": "Liability",
+      "normalBalance": "Credit"
+    },
+    {
+      "code": "2020",
+      "name": "National Capitation Remittance Payable",
+      "type": "Liability",
+      "normalBalance": "Credit"
+    },
+    {
+      "code": "3010",
+      "name": "Club Fraternal Fund Equity",
+      "type": "Equity",
+      "normalBalance": "Credit"
+    },
+    {
+      "code": "4010",
+      "name": "Membership Dues Revenue",
+      "type": "Revenue",
+      "normalBalance": "Credit"
+    },
+    {
+      "code": "4020",
+      "name": "Special Assessment Donations",
+      "type": "Revenue",
+      "normalBalance": "Credit"
+    },
+    {
+      "code": "5010",
+      "name": "Community Service Project Expenses",
+      "type": "Expense",
+      "normalBalance": "Debit"
+    },
+    {
+      "code": "5020",
+      "name": "Meeting & Fellowship Operational Expenses",
+      "type": "Expense",
+      "normalBalance": "Debit"
+    }
+  ],
+  "journalEntries": [
+    {
+      "id": "je-rev-1790986277281",
+      "entryNumber": "JE-REV-2026-0011",
+      "entryDate": "2026-10-03",
+      "description": "REVERSAL of OR-TEST-1790986277277 (JE-2026-0010): Duplicate payment entry reversal",
+      "referenceNumber": "REV-OR-TEST-1790986277277",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "reversalOf": "je-1790986277278",
+      "lines": [
+        {
+          "id": "jl-rev-1790986277281-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        },
+        {
+          "id": "jl-rev-1790986277281-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        }
+      ]
+    },
+    {
+      "id": "je-1790986277278",
+      "entryNumber": "JE-2026-0010",
+      "entryDate": "2026-10-02",
+      "description": "Annual Membership Dues - Kuya Joy Aragon (OR-TEST-1790986277277)",
+      "referenceNumber": "OR-TEST-1790986277277",
+      "createdBy": "Kuya Joenathan Talento",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-1790986277278-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Bank Transfer"
+        },
+        {
+          "id": "jl-1790986277278-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Dues"
+        }
+      ]
+    },
+    {
+      "id": "je-rev-1790986079903",
+      "entryNumber": "JE-REV-2026-0009",
+      "entryDate": "2026-10-03",
+      "description": "REVERSAL of OR-TEST-1790986079900 (JE-2026-0008): Duplicate payment entry reversal",
+      "referenceNumber": "REV-OR-TEST-1790986079900",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "reversalOf": "je-1790986079901",
+      "lines": [
+        {
+          "id": "jl-rev-1790986079903-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        },
+        {
+          "id": "jl-rev-1790986079903-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        }
+      ]
+    },
+    {
+      "id": "je-1790986079901",
+      "entryNumber": "JE-2026-0008",
+      "entryDate": "2026-10-02",
+      "description": "Annual Membership Dues - Kuya Joy Aragon (OR-TEST-1790986079900)",
+      "referenceNumber": "OR-TEST-1790986079900",
+      "createdBy": "Kuya Joenathan Talento",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-1790986079901-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Bank Transfer"
+        },
+        {
+          "id": "jl-1790986079901-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Dues"
+        }
+      ]
+    },
+    {
+      "id": "je-rev-1790986057667",
+      "entryNumber": "JE-REV-2026-0007",
+      "entryDate": "2026-10-03",
+      "description": "REVERSAL of OR-TEST-1790986057665 (JE-2026-0006): Duplicate payment entry reversal",
+      "referenceNumber": "REV-OR-TEST-1790986057665",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "reversalOf": "je-1790986057665",
+      "lines": [
+        {
+          "id": "jl-rev-1790986057667-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        },
+        {
+          "id": "jl-rev-1790986057667-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        }
+      ]
+    },
+    {
+      "id": "je-1790986057665",
+      "entryNumber": "JE-2026-0006",
+      "entryDate": "2026-10-02",
+      "description": "Annual Membership Dues - Kuya Joy Aragon (OR-TEST-1790986057665)",
+      "referenceNumber": "OR-TEST-1790986057665",
+      "createdBy": "Kuya Joenathan Talento",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-1790986057665-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Bank Transfer"
+        },
+        {
+          "id": "jl-1790986057665-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Dues"
+        }
+      ]
+    },
+    {
+      "id": "je-rev-1790986037748",
+      "entryNumber": "JE-REV-2026-0005",
+      "entryDate": "2026-10-03",
+      "description": "REVERSAL of OR-TEST-1790986037746 (JE-2026-0004): Duplicate payment entry reversal",
+      "referenceNumber": "REV-OR-TEST-1790986037746",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "reversalOf": "je-1790986037747",
+      "lines": [
+        {
+          "id": "jl-rev-1790986037748-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        },
+        {
+          "id": "jl-rev-1790986037748-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Reversal: Duplicate payment entry reversal"
+        }
+      ]
+    },
+    {
+      "id": "je-1790986037747",
+      "entryNumber": "JE-2026-0004",
+      "entryDate": "2026-10-02",
+      "description": "Annual Membership Dues - Kuya Joy Aragon (OR-TEST-1790986037746)",
+      "referenceNumber": "OR-TEST-1790986037746",
+      "createdBy": "Kuya Joenathan Talento",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-1790986037747-0",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 5000,
+          "credit": 0,
+          "memo": "Bank Transfer"
+        },
+        {
+          "id": "jl-1790986037747-1",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 5000,
+          "memo": "Dues"
+        }
+      ]
+    },
+    {
+      "id": "je-1",
+      "entryNumber": "JE-2026-0001",
+      "entryDate": "2026-01-15",
+      "description": "Payment of annual membership dues - Kuya Joy Aragon (Pres.)",
+      "referenceNumber": "OR-2026-001",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-1a",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 6000,
+          "credit": 0,
+          "memo": "Bank Transfer"
+        },
+        {
+          "id": "jl-1b",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 6000,
+          "memo": "Annual Dues 2026"
+        }
+      ]
+    },
+    {
+      "id": "je-2",
+      "entryNumber": "JE-2026-0002",
+      "entryDate": "2026-01-18",
+      "description": "Payment of annual membership dues - Kuya Chester Jan Camacho (Sec.)",
+      "referenceNumber": "OR-2026-002",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-2a",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 6000,
+          "credit": 0,
+          "memo": "GCash Payment"
+        },
+        {
+          "id": "jl-2b",
+          "accountCode": "4010",
+          "accountName": "Membership Dues Revenue",
+          "debit": 0,
+          "credit": 6000,
+          "memo": "Annual Dues 2026"
+        }
+      ]
+    },
+    {
+      "id": "je-3",
+      "entryNumber": "JE-2026-0003",
+      "entryDate": "2026-01-18",
+      "description": "Remittance collection for BCNBR-1 Regional Dues - Kuya Chester Jan Camacho",
+      "referenceNumber": "OR-2026-003",
+      "createdBy": "Kuya Joenathan Talento (Treasurer)",
+      "status": "Posted",
+      "lines": [
+        {
+          "id": "jl-3a",
+          "accountCode": "1010",
+          "accountName": "Cash & Bank Balances",
+          "debit": 2000,
+          "credit": 0,
+          "memo": "GCash Payment"
+        },
+        {
+          "id": "jl-3b",
+          "accountCode": "2010",
+          "accountName": "Regional Dues Remittance Payable",
+          "debit": 0,
+          "credit": 2000,
+          "memo": "BCNBR-1 Capitation"
+        }
+      ]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann-1",
+      "scope": "Club",
+      "clubId": "club-beec",
+      "title": "Mobilization Briefing: Bagasbas Medical-Dental Outreach",
+      "content": "All Kuya and Ate Eagles are called to the final logistics meeting for our October 18 Medical Mission. Please check your assigned tasks in the Project Tracking Board.",
+      "priority": "Urgent",
+      "status": "Published",
+      "publishAt": "2026-10-01 08:00 PST",
+      "createdBy": "mem-morales",
+      "authorName": "Kuya Dave P. Morales, MD",
+      "authorPosition": "Community Service Chairman",
+      "readBy": [
+        "mem-camacho",
+        "mem-aragon"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "doc-1",
+      "title": "Official Constitution and By-Laws of TFOE-PE, Inc. (e-Edition)",
+      "category": "Constitution & Bylaws",
+      "classification": "Public",
+      "scope": "National",
+      "fileType": "PDF",
+      "fileSize": "4.2 MB",
+      "version": "v2026.1",
+      "uploadedBy": "National Secretariat",
+      "uploadedAt": "2026-01-15",
+      "downloadCount": 142,
+      "description": "The authoritative codified Constitution and By-Laws synchronized from the official National e-Constitution portal."
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-genesis",
+      "actorId": "system",
+      "actorName": "AGILA System Initialization",
+      "actorPosition": "Root Custodian",
+      "action": "SYSTEM_BOOTSTRAP",
+      "resourceType": "Database",
+      "resourceId": "agila-db-v1",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "2026-01-01 00:00:00 PST",
+      "ip": "127.0.0.1",
+      "previousHash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "currentHash": "7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421"
+    },
+    {
+      "id": "aud-1790986037674-2515",
+      "actorId": "admin-1",
+      "actorName": "Tech Admin",
+      "actorPosition": "Technical Systems Administrator",
+      "action": "CONSTITUTIONAL_AUTHORITY_DENIED",
+      "resourceType": "Constitution",
+      "resourceId": "/api/constitution/sync",
+      "scope": "National",
+      "result": "Denied",
+      "timestamp": "10/3/2026, 8:07:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "attemptedPermission": "CONSTITUTION_SOURCE_MANAGE",
+        "isMasterAdmin": true
+      },
+      "previousHash": "7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+      "currentHash": "dba6f65046d4e0baacea19ec2de875522032f4312fed587e8ec21e8007ce8198"
+    },
+    {
+      "id": "aud-1790986037743-8644",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2024-archived",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421"
+      },
+      "afterState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+        "reason": "Executive Council Resolution #2026-08"
+      },
+      "previousHash": "dba6f65046d4e0baacea19ec2de875522032f4312fed587e8ec21e8007ce8198",
+      "currentHash": "33424986224c0018098be043f4b625a224270a342c1da0a2b2368567952352b1"
+    },
+    {
+      "id": "aud-1790986037745-1714",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2026-1",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee"
+      },
+      "afterState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+        "reason": "Reinstating 2026 ratified version"
+      },
+      "previousHash": "33424986224c0018098be043f4b625a224270a342c1da0a2b2368567952352b1",
+      "currentHash": "ec2b00b2e11e3b4fb7bb44ea40d2755448c0a9bd1be46cf96337742ef90408e1"
+    },
+    {
+      "id": "aud-1790986037752-5255",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "Technical Administrator",
+      "action": "DATABASE_RESTORE_EXECUTED",
+      "resourceType": "Database",
+      "resourceId": "agila-primary",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "checksum": "sha256:64768411583f5a1622c73ad77de45fe673212b46302469451088052f969f9111"
+      },
+      "previousHash": "ec2b00b2e11e3b4fb7bb44ea40d2755448c0a9bd1be46cf96337742ef90408e1",
+      "currentHash": "d1d64c0ee65f5f9a2ad86a96c3a5edf16f7705a134bdb3ee99dc107955af2cda"
+    },
+    {
+      "id": "aud-1790986057637-7949",
+      "actorId": "admin-1",
+      "actorName": "Tech Admin",
+      "actorPosition": "Technical Systems Administrator",
+      "action": "CONSTITUTIONAL_AUTHORITY_DENIED",
+      "resourceType": "Constitution",
+      "resourceId": "/api/constitution/sync",
+      "scope": "National",
+      "result": "Denied",
+      "timestamp": "10/3/2026, 8:07:37 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "attemptedPermission": "CONSTITUTION_SOURCE_MANAGE",
+        "isMasterAdmin": true
+      },
+      "previousHash": "d1d64c0ee65f5f9a2ad86a96c3a5edf16f7705a134bdb3ee99dc107955af2cda",
+      "currentHash": "09aff75273a4622d52be3aeabde07d8ec260255d965f671439573bace24d06a3"
+    },
+    {
+      "id": "aud-1790986057660-5427",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2024-archived",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:37 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421"
+      },
+      "afterState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+        "reason": "Executive Council Resolution #2026-08"
+      },
+      "previousHash": "09aff75273a4622d52be3aeabde07d8ec260255d965f671439573bace24d06a3",
+      "currentHash": "2c2fb242b9f6ea71b9dab3a6cd5be8a6086f95030937348c64232119d9db4597"
+    },
+    {
+      "id": "aud-1790986057663-6342",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2026-1",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:37 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee"
+      },
+      "afterState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+        "reason": "Reinstating 2026 ratified version"
+      },
+      "previousHash": "2c2fb242b9f6ea71b9dab3a6cd5be8a6086f95030937348c64232119d9db4597",
+      "currentHash": "5f27f4d861cc6881b4b0d01ee95d6123eabbbcd57d6a4f228607af6bd144b2af"
+    },
+    {
+      "id": "aud-1790986057673-6209",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "Technical Administrator",
+      "action": "DATABASE_RESTORE_EXECUTED",
+      "resourceType": "Database",
+      "resourceId": "agila-primary",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:37 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "checksum": "sha256:a703f73b276b94cbd79f1fc7c4313b7cc59ed41888ae9e6afb3ac6f0cafc3340"
+      },
+      "previousHash": "5f27f4d861cc6881b4b0d01ee95d6123eabbbcd57d6a4f228607af6bd144b2af",
+      "currentHash": "97196c1f13fbdad4d190fcbb6ad9b423e015dbe421e004acd4b4ae2dc51d62c5"
+    },
+    {
+      "id": "aud-1790986079867-9563",
+      "actorId": "admin-1",
+      "actorName": "Tech Admin",
+      "actorPosition": "Technical Systems Administrator",
+      "action": "CONSTITUTIONAL_AUTHORITY_DENIED",
+      "resourceType": "Constitution",
+      "resourceId": "/api/constitution/sync",
+      "scope": "National",
+      "result": "Denied",
+      "timestamp": "10/3/2026, 8:07:59 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "attemptedPermission": "CONSTITUTION_SOURCE_MANAGE",
+        "isMasterAdmin": true
+      },
+      "previousHash": "97196c1f13fbdad4d190fcbb6ad9b423e015dbe421e004acd4b4ae2dc51d62c5",
+      "currentHash": "ab71f3482a1fa5004f5385af49883d06d23e6af5c0f26791f83ed0cf15894072"
+    },
+    {
+      "id": "aud-1790986079895-4710",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2024-archived",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:59 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421"
+      },
+      "afterState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+        "reason": "Executive Council Resolution #2026-08"
+      },
+      "previousHash": "ab71f3482a1fa5004f5385af49883d06d23e6af5c0f26791f83ed0cf15894072",
+      "currentHash": "cf535387de4a2c30c5a7407584722f4d9af6999bfbd9235b6cc05b24edac3a47"
+    },
+    {
+      "id": "aud-1790986079898-4333",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2026-1",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:59 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee"
+      },
+      "afterState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+        "reason": "Reinstating 2026 ratified version"
+      },
+      "previousHash": "cf535387de4a2c30c5a7407584722f4d9af6999bfbd9235b6cc05b24edac3a47",
+      "currentHash": "67413e6e6f973344b6e77d27f45f9d532cf75939a5a520cc2de0880a42f74b8b"
+    },
+    {
+      "id": "aud-1790986079937-9164",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "Technical Administrator",
+      "action": "DATABASE_RESTORE_EXECUTED",
+      "resourceType": "Database",
+      "resourceId": "agila-primary",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:07:59 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "checksum": "sha256:dcb4a41eb6c2040061e6ff7eb77786aace11f94fdd9d861ab9cb0cfb108bd16a"
+      },
+      "previousHash": "67413e6e6f973344b6e77d27f45f9d532cf75939a5a520cc2de0880a42f74b8b",
+      "currentHash": "d987906b0d44be8babb4b67c09b9a7ad364568547e047827bddb832ca01bf7fc"
+    },
+    {
+      "id": "aud-1790986097540-3838",
+      "actorId": "mem-camacho",
+      "actorName": "Chester Jan Camacho",
+      "actorPosition": "Club Secretary (2026-2028)",
+      "action": "LOGIN_SUCCESS",
+      "resourceType": "Session",
+      "resourceId": "agila_sess_4e45...",
+      "scope": "club-beec",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:08:17 AM PST",
+      "ip": "::ffff:127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "previousHash": "d987906b0d44be8babb4b67c09b9a7ad364568547e047827bddb832ca01bf7fc",
+      "currentHash": "8123a5e951bf3409e9a7b28ce0bc9270ccfea11d5e94e90458ac81c5bb126de0"
+    },
+    {
+      "id": "aud-1790986097708-4861",
+      "actorId": "mem-camacho",
+      "actorName": "Chester Jan Camacho",
+      "actorPosition": "Club Secretary (2026-2028)",
+      "action": "PERMISSION_DENIED",
+      "resourceType": "API",
+      "resourceId": "/api/audit",
+      "scope": "club-beec",
+      "result": "Denied",
+      "timestamp": "10/3/2026, 8:08:17 AM PST",
+      "ip": "::ffff:127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "attemptedPermission": "AUDIT_LOG_VIEW"
+      },
+      "previousHash": "8123a5e951bf3409e9a7b28ce0bc9270ccfea11d5e94e90458ac81c5bb126de0",
+      "currentHash": "d296d5f14f9112303b210bea01951e8583641106f9460e71805d000567954012"
+    },
+    {
+      "id": "aud-1790986277248-5806",
+      "actorId": "admin-1",
+      "actorName": "Tech Admin",
+      "actorPosition": "Technical Systems Administrator",
+      "action": "CONSTITUTIONAL_AUTHORITY_DENIED",
+      "resourceType": "Constitution",
+      "resourceId": "/api/constitution/sync",
+      "scope": "National",
+      "result": "Denied",
+      "timestamp": "10/3/2026, 8:11:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "attemptedPermission": "CONSTITUTION_SOURCE_MANAGE",
+        "isMasterAdmin": true
+      },
+      "previousHash": "d296d5f14f9112303b210bea01951e8583641106f9460e71805d000567954012",
+      "currentHash": "4f959c909c2ee3e47768b1f94b6ea6204f9edc673a038698fd8457f7d12da8a3"
+    },
+    {
+      "id": "aud-1790986277272-1002",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2024-archived",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:11:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421"
+      },
+      "afterState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+        "reason": "Executive Council Resolution #2026-08"
+      },
+      "previousHash": "4f959c909c2ee3e47768b1f94b6ea6204f9edc673a038698fd8457f7d12da8a3",
+      "currentHash": "a25c373173965d8c6cbb436fe8fd1da0e644facbb36e3e5c3eb61e60e0e55d33"
+    },
+    {
+      "id": "aud-1790986277275-3710",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "National Constitutional Commission",
+      "action": "CONSTITUTION_ROLLBACK",
+      "resourceType": "Constitution",
+      "resourceId": "const-ver-2026-1",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:11:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "beforeState": {
+        "version": "v2024.1",
+        "hash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee"
+      },
+      "afterState": {
+        "version": "v2026.1",
+        "hash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+        "reason": "Reinstating 2026 ratified version"
+      },
+      "previousHash": "a25c373173965d8c6cbb436fe8fd1da0e644facbb36e3e5c3eb61e60e0e55d33",
+      "currentHash": "a4498f56e99c0f8da65c120456e9c5a9d055cea3536ff0a822d43207d50c799d"
+    },
+    {
+      "id": "aud-1790986277287-5763",
+      "actorId": "mem-devera",
+      "actorName": "Gabriel De Vera",
+      "actorPosition": "Technical Administrator",
+      "action": "DATABASE_RESTORE_EXECUTED",
+      "resourceType": "Database",
+      "resourceId": "agila-primary",
+      "scope": "National",
+      "result": "Success",
+      "timestamp": "10/3/2026, 8:11:17 AM PST",
+      "ip": "127.0.0.1",
+      "userAgent": "AGILA-Core",
+      "afterState": {
+        "checksum": "sha256:479ae33b7661a9408dc6a9b1ed6c061b59be5f620e132e86705d7e7922e3796c"
+      },
+      "previousHash": "a4498f56e99c0f8da65c120456e9c5a9d055cea3536ff0a822d43207d50c799d",
+      "currentHash": "fc44ceac2d0071fbe84440dca5d37299b3a28d36824cfc4990d6a6a8156df076"
+    }
+  ],
+  "constitutionVersions": [
+    {
+      "id": "const-ver-2026-1",
+      "version": "v2026.1",
+      "effectiveDate": "January 15, 2026",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "contentHash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+      "preamble": "We, the members of The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE), imploring the aid of Divine Providence, in order to establish an organization that shall embody our fraternal ideals and aspirations, foster genuine brotherhood, promote service to humanity, enhance visionary leadership, and protect the welfare of our people, do hereby promulgate and adopt this National Constitution and By-Laws.",
+      "articles": [
+        {
+          "id": "art-1",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 1,
+          "romanNumeral": "Article I",
+          "title": "Name, Seal, Motto, and Dominant Colors",
+          "sortOrder": 1,
+          "sections": [
+            {
+              "id": "art-1-sec-1",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 1,
+              "title": "Official Name",
+              "content": "The official name of this fraternal socio-civic organization shall be \"The Fraternal Order of Eagles - Philippine Eagles, Inc.\", officially abbreviated as TFOE-PE, Inc., an indigenous socio-civic fraternal movement founded in Quezon City, Philippines.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-1-sec-2",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 2,
+              "title": "Fraternal Greeting and Terminology",
+              "content": "In all fraternal gatherings, assemblies, communications, and official interactions, male members shall address each other with the fraternal title \"Kuya\" followed by their nickname or surname, and female members (Lady Eagles) shall be addressed as \"Ate\" followed by their nickname or surname, signifying deep-rooted Filipino fraternal respect and family bonds.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-1-sec-3",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 3,
+              "title": "Official Seal and Insignia",
+              "content": "The official seal of the Philippine Eagles shall bear the magnificent image of the Philippine Eagle (Pithecophaga jefferyi) with outstretched wings, surrounded by twelve golden rays and laurel leaves, symbolizing strength, vision, freedom, courage, and service to God, Country, and Humanity.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-1-sec-4",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 4,
+              "title": "Fraternal Motto",
+              "content": "The official motto of The Fraternal Order of Eagles - Philippine Eagles, Inc. shall be: \"Service Through Strong Brotherhood\" (Humanitarian Service), reflecting our pledge to lend a helping hand to the underprivileged and oppressed.",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "art-2",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 2,
+          "romanNumeral": "Article II",
+          "title": "Declaration of Principles and Objectives",
+          "sortOrder": 2,
+          "sections": [
+            {
+              "id": "art-2-sec-1",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 1,
+              "title": "Eagleism Defined",
+              "content": "Eagleism is humanitarian service through strong brotherhood. It is the living commitment of every Eagle to champion fellowship, mutual respect, benevolence, community empowerment, and civic responsibility without bias to political, religious, or ethnic distinctions.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-2-sec-2",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 2,
+              "title": "Core Fraternal Objectives",
+              "content": "The primary objectives of the Order are: (a) To bind together men and women of good moral character into an enduring bond of brotherhood; (b) To render humanitarian service and community relief to the poor and vulnerable; (c) To support civic, health, educational, and livelihood development throughout the Philippine archipelago and wherever Eagles congregate; (d) To instill intense patriotism and reverence for the Constitution and laws of the Republic of the Philippines.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-3",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 3,
+          "romanNumeral": "Article III",
+          "title": "Membership, Qualifications, and Rights",
+          "sortOrder": 3,
+          "sections": [
+            {
+              "id": "art-3-sec-1",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 1,
+              "title": "Qualifications for Membership",
+              "content": "Any individual seeking membership into the Philippine Eagles must possess the following qualifications: (a) Must be a citizen of the Philippines or a foreign national of exemplary repute; (b) Must be at least twenty-one (21) years of age; (c) Must believe in the existence of a Supreme Being (Divine Providence); (d) Must possess good moral character, integrity, and respectable social standing; (e) Must have a legitimate and honest means of livelihood, profession, or business; (f) Must be sponsored by at least two (2) members in good standing of the chartered Club.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-3-sec-2",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 2,
+              "title": "Classes of Membership",
+              "content": "The classes of membership shall be: (a) Regular Member — inducted after passing through the applicant orientation, Club committee background investigation, and ritual induction; (b) Charter Member — an Eagle listed on the official charter roll upon the Club's foundation; (c) Life Member — an Eagle of outstanding service granted permanent status under National rules; (d) Honorary Member — conferred upon distinguished citizens for eminent public service and dedication to the ideals of Eagleism.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-3-sec-3",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 3,
+              "title": "Single Primary Club Rule",
+              "content": "Every Eagle shall belong to only one (1) primary chartered Club at any given time. While an Eagle may hold regional and national positions simultaneously, or participate in fellowships across clubs, all official voting rights and membership dues remittances remain tied to their primary Club.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-3-sec-4",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 4,
+              "title": "Rights and Privileges of Members in Good Standing",
+              "content": "A member in good standing (MIGS) who is not delinquent in dues or under disciplinary sanction enjoys the right to: (a) Participate and vote in General Membership Meetings; (b) Elect and be elected or appointed to Club, Regional, or National positions; (c) Wear the official insignia and carry the digital or physical Eagles Identification Card; (d) Benefit from fraternal mutual-aid programs and legal/brotherhood assistance.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-3-sec-5",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 5,
+              "title": "Duties and Obligations of an Eagle",
+              "content": "Every Eagle is bounden duty: (a) To faithfully attend all regular General Membership Meetings (GMM) and scheduled Club service missions; (b) To promptly pay monthly club dues, regional levies, national capitation fees, and approved special assessments; (c) To defend and uphold the Constitution and By-Laws of TFOE-PE; (d) To assist a distressed brother or sister Eagle in times of calamity, sickness, or emergency.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-3-sec-6",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 6,
+              "title": "Membership Statuses and Grounds for Sanction",
+              "content": "Membership status may be Active, Inactive, Suspended, Resigned, Transferred, or Expelled. Any member who commits gross misconduct, acts inimical to the fraternal order, defrauds club funds, repeatedly fails to attend GMM without justifiable cause, or is convicted of a crime involving moral turpitude shall undergo due process before the Club Ethics and Grievance Committee, subject to review and confirmation by the Regional Executive Committee.",
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "art-4",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 4,
+          "romanNumeral": "Article IV",
+          "title": "Organizational Hierarchy, Officers, and Governance",
+          "sortOrder": 4,
+          "sections": [
+            {
+              "id": "art-4-sec-1",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 1,
+              "title": "Four-Tier Organizational Hierarchy",
+              "content": "The Order operates under a four-tier hierarchical governance: (1) National Assembly and National Executive Committee (NATEXECO); (2) Regional Assembly and Regional Executive Committee (REXECOM); (3) Chartered Eagles Clubs; and (4) Individual Eagle Members. Club autonomy is respected in local socio-civic initiatives while remaining subordinate to National policy and e-Constitution mandates.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-4-sec-2",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 2,
+              "title": "Club Executive Officers",
+              "content": "The Executive Officers of each chartered Club shall be: (a) President; (b) Vice President; (c) Club Secretary; (d) Club Treasurer; (e) Club Auditor; (f) Public Information Officer (PIO); (g) Protocol Officer / Sergeant-at-Arms; and (h) Community Service Committee Chairman. The Club may appoint committee heads and deputy coordinators as needed.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-4-sec-3",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 3,
+              "title": "Two-Year Officer Term and Term Limits",
+              "content": "All elected and appointed Club, Regional, and National officers shall serve a term of two (2) calendar years, commencing on January 1st following their election/induction and terminating on December 31st of their second year in office. No Club President shall serve more than two (2) consecutive terms in the same position.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-4-sec-4",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 4,
+              "title": "Simultaneous Position Holding",
+              "content": "A member in good standing may simultaneously hold a Club position, a Regional position (e.g. Regional Committee Chair, Deputy Governor), and a National position, provided that their primary Club duties are not compromised and no conflict of financial interest exists between the scopes.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-4-sec-5",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 5,
+              "title": "Duties of the Club President",
+              "content": "The Club President is the Chief Executive Officer of the chartered Club. Duties include: (a) Presiding over all General Membership Meetings and Executive Committee meetings; (b) Enforcing the Constitution, By-Laws, and Club resolutions; (c) Exercising general supervision over all club affairs and community projects; (d) Approving membership onboarding applications jointly with the Club Secretary; (e) Authorizing official disbursements jointly with the Club Treasurer.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-4-sec-6",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 6,
+              "title": "Duties of the Club Secretary",
+              "content": "The Club Secretary is the official custodian of all club records and seals. Duties include: (a) Recording and issuing official minutes of all meetings; (b) Maintaining the verified membership master roster and attendance logs; (c) Validating onboarding credentials and digital QR check-in records; (d) Preparing and transmitting required monthly activity and attendance reports to the Regional Executive Committee.",
+              "sortOrder": 6
+            },
+            {
+              "id": "art-4-sec-7",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 7,
+              "title": "Duties of the Club Treasurer",
+              "content": "The Club Treasurer is the custodian of club funds and finances. Duties include: (a) Collecting all membership dues, regional levies, national fees, assessments, and donations; (b) Issuing official receipts and logging transactions into the club ledger; (c) Disbursing funds strictly upon written voucher approved by the President; (d) Presenting audited monthly financial statements to the General Membership.",
+              "sortOrder": 7
+            }
+          ]
+        },
+        {
+          "id": "art-5",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 5,
+          "romanNumeral": "Article V",
+          "title": "Meetings, Quorum, and Attendance Tracking",
+          "sortOrder": 5,
+          "sections": [
+            {
+              "id": "art-5-sec-1",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 1,
+              "title": "Regular General Membership Meetings (GMM)",
+              "content": "Every chartered Club shall convene a regular General Membership Meeting (GMM) at least once every calendar month (or bi-monthly as stipulated in local club by-laws) to transact official business, discuss community service projects, and strengthen fraternal ties.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-5-sec-2",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 2,
+              "title": "Mandatory GMM Attendance and Tracking",
+              "content": "GMM attendance is mandatory for all active members. Attendance shall be officially verified and recorded through: (a) Digital QR code scanning via the AGILA Hub platform; (b) Member geofenced self-check-in; (c) Officer manual verification; or (d) Photo attendance evidence where required. Three (3) consecutive unexcused absences shall trigger review for inactive status.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-5-sec-3",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 3,
+              "title": "Quorum Requirements",
+              "content": "A simple majority (fifty percent plus one) of all active members in good standing of the Club shall constitute a valid quorum to conduct official business and vote on binding club resolutions. In the absence of a quorum, the presiding officer may declare a fellowship session, but no formal financial or constitutional decisions may be enacted.",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "art-6",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 6,
+          "romanNumeral": "Article VI",
+          "title": "Dues, Fees, and Financial Administration",
+          "sortOrder": 6,
+          "sections": [
+            {
+              "id": "art-6-sec-1",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 1,
+              "title": "Categories of Dues and Assessments",
+              "content": "Members are required to pay: (a) Monthly or Annual Club Membership Dues; (b) Regional Dues as mandated by the Regional Assembly; (c) National Capitation and Insurance Fees as determined by the National Assembly; and (d) Duly approved Special Assessments for emergency disaster relief or charter anniversaries.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-6-sec-2",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 2,
+              "title": "Delinquency and Suspension of Privileges",
+              "content": "Any member whose dues are in arrears for more than three (3) consecutive months shall be classified as Delinquent. A delinquent member forfeits the right to vote, run for office, or sponsor new applicants until all arrears are fully remitted to the Club Treasurer.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-7",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 7,
+          "romanNumeral": "Article VII",
+          "title": "Community Service and Humanitarian Mandate",
+          "sortOrder": 7,
+          "sections": [
+            {
+              "id": "art-7-sec-1",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 1,
+              "title": "Humanitarian Obligation",
+              "content": "Every chartered Club must conduct and report at least four (4) major community service projects per year, focusing on healthcare missions, education assistance (e.g. Brigada Eskwela), environmental sustainability (e.g. Tree Planting / Coastal Clean-up), and calamity emergency response.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-7-sec-2",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 2,
+              "title": "Project Task Tracking and Accomplishment Reports",
+              "content": "Project planning, volunteer mobilization, task assignment, and budget accounting must be digitally documented. Upon project culmination, the Community Service Chairman and Club Secretary shall generate a formal Accomplishment Report complete with beneficiary counts, financial expenditure audit, and photo evidence.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-8",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 8,
+          "romanNumeral": "Article VIII",
+          "title": "Authoritative e-Constitution and Automated Synchronization",
+          "sortOrder": 8,
+          "sections": [
+            {
+              "id": "art-8-sec-1",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 1,
+              "title": "Authoritative Source of Truth",
+              "content": "The official National e-Constitution portal hosted at https://e-constitution.tfoe-peinc.com/ is the sole authoritative and binding source of truth for the Constitution and By-Laws of The Fraternal Order of Eagles - Philippine Eagles, Inc. Local clubs and regions shall not alter, substitute, or maintain conflicting constitutional texts.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-8-sec-2",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 2,
+              "title": "Automated Retrieval and Immutable Versioning",
+              "content": "The AGILA Hub platform shall periodically check and synchronize content from the official National e-Constitution URL. Any detected amendment shall be verified via cryptographic hash, parsed, and recorded as an immutable version. If the national portal is temporarily unreachable, the last verified active version shall remain securely in effect.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-8-sec-3",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 3,
+              "title": "Constitution AI Grounding Mandate",
+              "content": "Any artificial intelligence or retrieval-augmented system operating within the AGILA Hub (Constitution AI) shall answer constitutional inquiries strictly and exclusively from the indexed provisions of the official e-Constitution. It must cite the specific Article and Section, state the active version, and explicitly decline questions lacking constitutional grounding.",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ],
+      "isCurrent": true,
+      "syncTimestamp": "2026-01-15 00:00:00 PST"
+    },
+    {
+      "id": "const-ver-2024-archived",
+      "version": "v2024.1",
+      "effectiveDate": "January 1, 2024",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "contentHash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+      "preamble": "We, the members of The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE), imploring the aid of Divine Providence, in order to establish an organization that shall embody our fraternal ideals and aspirations, foster genuine brotherhood, promote service to humanity, enhance visionary leadership, and protect the welfare of our people, do hereby promulgate and adopt this National Constitution and By-Laws.",
+      "articles": [
+        {
+          "id": "art-1",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 1,
+          "romanNumeral": "Article I",
+          "title": "Name, Seal, Motto, and Dominant Colors",
+          "sortOrder": 1,
+          "sections": [
+            {
+              "id": "art-1-sec-1",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 1,
+              "title": "Official Name",
+              "content": "The official name of this fraternal socio-civic organization shall be \"The Fraternal Order of Eagles - Philippine Eagles, Inc.\", officially abbreviated as TFOE-PE, Inc., an indigenous socio-civic fraternal movement founded in Quezon City, Philippines.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-1-sec-2",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 2,
+              "title": "Fraternal Greeting and Terminology",
+              "content": "In all fraternal gatherings, assemblies, communications, and official interactions, male members shall address each other with the fraternal title \"Kuya\" followed by their nickname or surname, and female members (Lady Eagles) shall be addressed as \"Ate\" followed by their nickname or surname, signifying deep-rooted Filipino fraternal respect and family bonds.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-1-sec-3",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 3,
+              "title": "Official Seal and Insignia",
+              "content": "The official seal of the Philippine Eagles shall bear the magnificent image of the Philippine Eagle (Pithecophaga jefferyi) with outstretched wings, surrounded by twelve golden rays and laurel leaves, symbolizing strength, vision, freedom, courage, and service to God, Country, and Humanity.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-1-sec-4",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 4,
+              "title": "Fraternal Motto",
+              "content": "The official motto of The Fraternal Order of Eagles - Philippine Eagles, Inc. shall be: \"Service Through Strong Brotherhood\" (Humanitarian Service), reflecting our pledge to lend a helping hand to the underprivileged and oppressed.",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "art-2",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 2,
+          "romanNumeral": "Article II",
+          "title": "Declaration of Principles and Objectives",
+          "sortOrder": 2,
+          "sections": [
+            {
+              "id": "art-2-sec-1",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 1,
+              "title": "Eagleism Defined",
+              "content": "Eagleism is humanitarian service through strong brotherhood. It is the living commitment of every Eagle to champion fellowship, mutual respect, benevolence, community empowerment, and civic responsibility without bias to political, religious, or ethnic distinctions.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-2-sec-2",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 2,
+              "title": "Core Fraternal Objectives",
+              "content": "The primary objectives of the Order are: (a) To bind together men and women of good moral character into an enduring bond of brotherhood; (b) To render humanitarian service and community relief to the poor and vulnerable; (c) To support civic, health, educational, and livelihood development throughout the Philippine archipelago and wherever Eagles congregate; (d) To instill intense patriotism and reverence for the Constitution and laws of the Republic of the Philippines.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-3",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 3,
+          "romanNumeral": "Article III",
+          "title": "Membership, Qualifications, and Rights",
+          "sortOrder": 3,
+          "sections": [
+            {
+              "id": "art-3-sec-1",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 1,
+              "title": "Qualifications for Membership",
+              "content": "Any individual seeking membership into the Philippine Eagles must possess the following qualifications: (a) Must be a citizen of the Philippines or a foreign national of exemplary repute; (b) Must be at least twenty-one (21) years of age; (c) Must believe in the existence of a Supreme Being (Divine Providence); (d) Must possess good moral character, integrity, and respectable social standing; (e) Must have a legitimate and honest means of livelihood, profession, or business; (f) Must be sponsored by at least two (2) members in good standing of the chartered Club.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-3-sec-2",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 2,
+              "title": "Classes of Membership",
+              "content": "The classes of membership shall be: (a) Regular Member — inducted after passing through the applicant orientation, Club committee background investigation, and ritual induction; (b) Charter Member — an Eagle listed on the official charter roll upon the Club's foundation; (c) Life Member — an Eagle of outstanding service granted permanent status under National rules; (d) Honorary Member — conferred upon distinguished citizens for eminent public service and dedication to the ideals of Eagleism.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-3-sec-3",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 3,
+              "title": "Single Primary Club Rule",
+              "content": "Every Eagle shall belong to only one (1) primary chartered Club at any given time. While an Eagle may hold regional and national positions simultaneously, or participate in fellowships across clubs, all official voting rights and membership dues remittances remain tied to their primary Club.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-3-sec-4",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 4,
+              "title": "Rights and Privileges of Members in Good Standing",
+              "content": "A member in good standing (MIGS) who is not delinquent in dues or under disciplinary sanction enjoys the right to: (a) Participate and vote in General Membership Meetings; (b) Elect and be elected or appointed to Club, Regional, or National positions; (c) Wear the official insignia and carry the digital or physical Eagles Identification Card; (d) Benefit from fraternal mutual-aid programs and legal/brotherhood assistance.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-3-sec-5",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 5,
+              "title": "Duties and Obligations of an Eagle",
+              "content": "Every Eagle is bounden duty: (a) To faithfully attend all regular General Membership Meetings (GMM) and scheduled Club service missions; (b) To promptly pay monthly club dues, regional levies, national capitation fees, and approved special assessments; (c) To defend and uphold the Constitution and By-Laws of TFOE-PE; (d) To assist a distressed brother or sister Eagle in times of calamity, sickness, or emergency.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-3-sec-6",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 6,
+              "title": "Membership Statuses and Grounds for Sanction",
+              "content": "Membership status may be Active, Inactive, Suspended, Resigned, Transferred, or Expelled. Any member who commits gross misconduct, acts inimical to the fraternal order, defrauds club funds, repeatedly fails to attend GMM without justifiable cause, or is convicted of a crime involving moral turpitude shall undergo due process before the Club Ethics and Grievance Committee, subject to review and confirmation by the Regional Executive Committee.",
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "art-4",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 4,
+          "romanNumeral": "Article IV",
+          "title": "Organizational Hierarchy, Officers, and Governance",
+          "sortOrder": 4,
+          "sections": [
+            {
+              "id": "art-4-sec-1",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 1,
+              "title": "Four-Tier Organizational Hierarchy",
+              "content": "The Order operates under a four-tier hierarchical governance: (1) National Assembly and National Executive Committee (NATEXECO); (2) Regional Assembly and Regional Executive Committee (REXECOM); (3) Chartered Eagles Clubs; and (4) Individual Eagle Members. Club autonomy is respected in local socio-civic initiatives while remaining subordinate to National policy and e-Constitution mandates.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-4-sec-2",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 2,
+              "title": "Club Executive Officers",
+              "content": "The Executive Officers of each chartered Club shall be: (a) President; (b) Vice President; (c) Club Secretary; (d) Club Treasurer; (e) Club Auditor; (f) Public Information Officer (PIO); (g) Protocol Officer / Sergeant-at-Arms; and (h) Community Service Committee Chairman. The Club may appoint committee heads and deputy coordinators as needed.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-4-sec-3",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 3,
+              "title": "Two-Year Officer Term and Term Limits",
+              "content": "All elected and appointed Club, Regional, and National officers shall serve a term of two (2) calendar years, commencing on January 1st following their election/induction and terminating on December 31st of their second year in office. No Club President shall serve more than two (2) consecutive terms in the same position.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-4-sec-4",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 4,
+              "title": "Simultaneous Position Holding",
+              "content": "A member in good standing may simultaneously hold a Club position, a Regional position (e.g. Regional Committee Chair, Deputy Governor), and a National position, provided that their primary Club duties are not compromised and no conflict of financial interest exists between the scopes.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-4-sec-5",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 5,
+              "title": "Duties of the Club President",
+              "content": "The Club President is the Chief Executive Officer of the chartered Club. Duties include: (a) Presiding over all General Membership Meetings and Executive Committee meetings; (b) Enforcing the Constitution, By-Laws, and Club resolutions; (c) Exercising general supervision over all club affairs and community projects; (d) Approving membership onboarding applications jointly with the Club Secretary; (e) Authorizing official disbursements jointly with the Club Treasurer.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-4-sec-6",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 6,
+              "title": "Duties of the Club Secretary",
+              "content": "The Club Secretary is the official custodian of all club records and seals. Duties include: (a) Recording and issuing official minutes of all meetings; (b) Maintaining the verified membership master roster and attendance logs; (c) Validating onboarding credentials and digital QR check-in records; (d) Preparing and transmitting required monthly activity and attendance reports to the Regional Executive Committee.",
+              "sortOrder": 6
+            },
+            {
+              "id": "art-4-sec-7",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 7,
+              "title": "Duties of the Club Treasurer",
+              "content": "The Club Treasurer is the custodian of club funds and finances. Duties include: (a) Collecting all membership dues, regional levies, national fees, assessments, and donations; (b) Issuing official receipts and logging transactions into the club ledger; (c) Disbursing funds strictly upon written voucher approved by the President; (d) Presenting audited monthly financial statements to the General Membership.",
+              "sortOrder": 7
+            }
+          ]
+        },
+        {
+          "id": "art-5",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 5,
+          "romanNumeral": "Article V",
+          "title": "Meetings, Quorum, and Attendance Tracking",
+          "sortOrder": 5,
+          "sections": [
+            {
+              "id": "art-5-sec-1",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 1,
+              "title": "Regular General Membership Meetings (GMM)",
+              "content": "Every chartered Club shall convene a regular General Membership Meeting (GMM) at least once every calendar month (or bi-monthly as stipulated in local club by-laws) to transact official business, discuss community service projects, and strengthen fraternal ties.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-5-sec-2",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 2,
+              "title": "Mandatory GMM Attendance and Tracking",
+              "content": "GMM attendance is mandatory for all active members. Attendance shall be officially verified and recorded through: (a) Digital QR code scanning via the AGILA Hub platform; (b) Member geofenced self-check-in; (c) Officer manual verification; or (d) Photo attendance evidence where required. Three (3) consecutive unexcused absences shall trigger review for inactive status.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-5-sec-3",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 3,
+              "title": "Quorum Requirements",
+              "content": "A simple majority (fifty percent plus one) of all active members in good standing of the Club shall constitute a valid quorum to conduct official business and vote on binding club resolutions. In the absence of a quorum, the presiding officer may declare a fellowship session, but no formal financial or constitutional decisions may be enacted.",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "art-6",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 6,
+          "romanNumeral": "Article VI",
+          "title": "Dues, Fees, and Financial Administration",
+          "sortOrder": 6,
+          "sections": [
+            {
+              "id": "art-6-sec-1",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 1,
+              "title": "Categories of Dues and Assessments",
+              "content": "Members are required to pay: (a) Monthly or Annual Club Membership Dues; (b) Regional Dues as mandated by the Regional Assembly; (c) National Capitation and Insurance Fees as determined by the National Assembly; and (d) Duly approved Special Assessments for emergency disaster relief or charter anniversaries.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-6-sec-2",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 2,
+              "title": "Delinquency and Suspension of Privileges",
+              "content": "Any member whose dues are in arrears for more than three (3) consecutive months shall be classified as Delinquent. A delinquent member forfeits the right to vote, run for office, or sponsor new applicants until all arrears are fully remitted to the Club Treasurer.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-7",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 7,
+          "romanNumeral": "Article VII",
+          "title": "Community Service and Humanitarian Mandate",
+          "sortOrder": 7,
+          "sections": [
+            {
+              "id": "art-7-sec-1",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 1,
+              "title": "Humanitarian Obligation",
+              "content": "Every chartered Club must conduct and report at least four (4) major community service projects per year, focusing on healthcare missions, education assistance (e.g. Brigada Eskwela), environmental sustainability (e.g. Tree Planting / Coastal Clean-up), and calamity emergency response.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-7-sec-2",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 2,
+              "title": "Project Task Tracking and Accomplishment Reports",
+              "content": "Project planning, volunteer mobilization, task assignment, and budget accounting must be digitally documented. Upon project culmination, the Community Service Chairman and Club Secretary shall generate a formal Accomplishment Report complete with beneficiary counts, financial expenditure audit, and photo evidence.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-8",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 8,
+          "romanNumeral": "Article VIII",
+          "title": "Authoritative e-Constitution and Automated Synchronization",
+          "sortOrder": 8,
+          "sections": [
+            {
+              "id": "art-8-sec-1",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 1,
+              "title": "Authoritative Source of Truth",
+              "content": "The official National e-Constitution portal hosted at https://e-constitution.tfoe-peinc.com/ is the sole authoritative and binding source of truth for the Constitution and By-Laws of The Fraternal Order of Eagles - Philippine Eagles, Inc. Local clubs and regions shall not alter, substitute, or maintain conflicting constitutional texts.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-8-sec-2",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 2,
+              "title": "Automated Retrieval and Immutable Versioning",
+              "content": "The AGILA Hub platform shall periodically check and synchronize content from the official National e-Constitution URL. Any detected amendment shall be verified via cryptographic hash, parsed, and recorded as an immutable version. If the national portal is temporarily unreachable, the last verified active version shall remain securely in effect.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-8-sec-3",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 3,
+              "title": "Constitution AI Grounding Mandate",
+              "content": "Any artificial intelligence or retrieval-augmented system operating within the AGILA Hub (Constitution AI) shall answer constitutional inquiries strictly and exclusively from the indexed provisions of the official e-Constitution. It must cite the specific Article and Section, state the active version, and explicitly decline questions lacking constitutional grounding.",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ],
+      "isCurrent": false,
+      "syncTimestamp": "2024-01-01 00:00:00 PST"
+    },
+    {
+      "id": "const-ver-2024-archived",
+      "version": "v2024.1",
+      "effectiveDate": "January 1, 2024",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "contentHash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+      "preamble": "We, the members of The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE), imploring the aid of Divine Providence, in order to establish an organization that shall embody our fraternal ideals and aspirations, foster genuine brotherhood, promote service to humanity, enhance visionary leadership, and protect the welfare of our people, do hereby promulgate and adopt this National Constitution and By-Laws.",
+      "articles": [
+        {
+          "id": "art-1",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 1,
+          "romanNumeral": "Article I",
+          "title": "Name, Seal, Motto, and Dominant Colors",
+          "sortOrder": 1,
+          "sections": [
+            {
+              "id": "art-1-sec-1",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 1,
+              "title": "Official Name",
+              "content": "The official name of this fraternal socio-civic organization shall be \"The Fraternal Order of Eagles - Philippine Eagles, Inc.\", officially abbreviated as TFOE-PE, Inc., an indigenous socio-civic fraternal movement founded in Quezon City, Philippines.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-1-sec-2",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 2,
+              "title": "Fraternal Greeting and Terminology",
+              "content": "In all fraternal gatherings, assemblies, communications, and official interactions, male members shall address each other with the fraternal title \"Kuya\" followed by their nickname or surname, and female members (Lady Eagles) shall be addressed as \"Ate\" followed by their nickname or surname, signifying deep-rooted Filipino fraternal respect and family bonds.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-1-sec-3",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 3,
+              "title": "Official Seal and Insignia",
+              "content": "The official seal of the Philippine Eagles shall bear the magnificent image of the Philippine Eagle (Pithecophaga jefferyi) with outstretched wings, surrounded by twelve golden rays and laurel leaves, symbolizing strength, vision, freedom, courage, and service to God, Country, and Humanity.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-1-sec-4",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 4,
+              "title": "Fraternal Motto",
+              "content": "The official motto of The Fraternal Order of Eagles - Philippine Eagles, Inc. shall be: \"Service Through Strong Brotherhood\" (Humanitarian Service), reflecting our pledge to lend a helping hand to the underprivileged and oppressed.",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "art-2",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 2,
+          "romanNumeral": "Article II",
+          "title": "Declaration of Principles and Objectives",
+          "sortOrder": 2,
+          "sections": [
+            {
+              "id": "art-2-sec-1",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 1,
+              "title": "Eagleism Defined",
+              "content": "Eagleism is humanitarian service through strong brotherhood. It is the living commitment of every Eagle to champion fellowship, mutual respect, benevolence, community empowerment, and civic responsibility without bias to political, religious, or ethnic distinctions.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-2-sec-2",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 2,
+              "title": "Core Fraternal Objectives",
+              "content": "The primary objectives of the Order are: (a) To bind together men and women of good moral character into an enduring bond of brotherhood; (b) To render humanitarian service and community relief to the poor and vulnerable; (c) To support civic, health, educational, and livelihood development throughout the Philippine archipelago and wherever Eagles congregate; (d) To instill intense patriotism and reverence for the Constitution and laws of the Republic of the Philippines.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-3",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 3,
+          "romanNumeral": "Article III",
+          "title": "Membership, Qualifications, and Rights",
+          "sortOrder": 3,
+          "sections": [
+            {
+              "id": "art-3-sec-1",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 1,
+              "title": "Qualifications for Membership",
+              "content": "Any individual seeking membership into the Philippine Eagles must possess the following qualifications: (a) Must be a citizen of the Philippines or a foreign national of exemplary repute; (b) Must be at least twenty-one (21) years of age; (c) Must believe in the existence of a Supreme Being (Divine Providence); (d) Must possess good moral character, integrity, and respectable social standing; (e) Must have a legitimate and honest means of livelihood, profession, or business; (f) Must be sponsored by at least two (2) members in good standing of the chartered Club.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-3-sec-2",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 2,
+              "title": "Classes of Membership",
+              "content": "The classes of membership shall be: (a) Regular Member — inducted after passing through the applicant orientation, Club committee background investigation, and ritual induction; (b) Charter Member — an Eagle listed on the official charter roll upon the Club's foundation; (c) Life Member — an Eagle of outstanding service granted permanent status under National rules; (d) Honorary Member — conferred upon distinguished citizens for eminent public service and dedication to the ideals of Eagleism.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-3-sec-3",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 3,
+              "title": "Single Primary Club Rule",
+              "content": "Every Eagle shall belong to only one (1) primary chartered Club at any given time. While an Eagle may hold regional and national positions simultaneously, or participate in fellowships across clubs, all official voting rights and membership dues remittances remain tied to their primary Club.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-3-sec-4",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 4,
+              "title": "Rights and Privileges of Members in Good Standing",
+              "content": "A member in good standing (MIGS) who is not delinquent in dues or under disciplinary sanction enjoys the right to: (a) Participate and vote in General Membership Meetings; (b) Elect and be elected or appointed to Club, Regional, or National positions; (c) Wear the official insignia and carry the digital or physical Eagles Identification Card; (d) Benefit from fraternal mutual-aid programs and legal/brotherhood assistance.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-3-sec-5",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 5,
+              "title": "Duties and Obligations of an Eagle",
+              "content": "Every Eagle is bounden duty: (a) To faithfully attend all regular General Membership Meetings (GMM) and scheduled Club service missions; (b) To promptly pay monthly club dues, regional levies, national capitation fees, and approved special assessments; (c) To defend and uphold the Constitution and By-Laws of TFOE-PE; (d) To assist a distressed brother or sister Eagle in times of calamity, sickness, or emergency.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-3-sec-6",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 6,
+              "title": "Membership Statuses and Grounds for Sanction",
+              "content": "Membership status may be Active, Inactive, Suspended, Resigned, Transferred, or Expelled. Any member who commits gross misconduct, acts inimical to the fraternal order, defrauds club funds, repeatedly fails to attend GMM without justifiable cause, or is convicted of a crime involving moral turpitude shall undergo due process before the Club Ethics and Grievance Committee, subject to review and confirmation by the Regional Executive Committee.",
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "art-4",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 4,
+          "romanNumeral": "Article IV",
+          "title": "Organizational Hierarchy, Officers, and Governance",
+          "sortOrder": 4,
+          "sections": [
+            {
+              "id": "art-4-sec-1",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 1,
+              "title": "Four-Tier Organizational Hierarchy",
+              "content": "The Order operates under a four-tier hierarchical governance: (1) National Assembly and National Executive Committee (NATEXECO); (2) Regional Assembly and Regional Executive Committee (REXECOM); (3) Chartered Eagles Clubs; and (4) Individual Eagle Members. Club autonomy is respected in local socio-civic initiatives while remaining subordinate to National policy and e-Constitution mandates.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-4-sec-2",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 2,
+              "title": "Club Executive Officers",
+              "content": "The Executive Officers of each chartered Club shall be: (a) President; (b) Vice President; (c) Club Secretary; (d) Club Treasurer; (e) Club Auditor; (f) Public Information Officer (PIO); (g) Protocol Officer / Sergeant-at-Arms; and (h) Community Service Committee Chairman. The Club may appoint committee heads and deputy coordinators as needed.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-4-sec-3",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 3,
+              "title": "Two-Year Officer Term and Term Limits",
+              "content": "All elected and appointed Club, Regional, and National officers shall serve a term of two (2) calendar years, commencing on January 1st following their election/induction and terminating on December 31st of their second year in office. No Club President shall serve more than two (2) consecutive terms in the same position.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-4-sec-4",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 4,
+              "title": "Simultaneous Position Holding",
+              "content": "A member in good standing may simultaneously hold a Club position, a Regional position (e.g. Regional Committee Chair, Deputy Governor), and a National position, provided that their primary Club duties are not compromised and no conflict of financial interest exists between the scopes.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-4-sec-5",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 5,
+              "title": "Duties of the Club President",
+              "content": "The Club President is the Chief Executive Officer of the chartered Club. Duties include: (a) Presiding over all General Membership Meetings and Executive Committee meetings; (b) Enforcing the Constitution, By-Laws, and Club resolutions; (c) Exercising general supervision over all club affairs and community projects; (d) Approving membership onboarding applications jointly with the Club Secretary; (e) Authorizing official disbursements jointly with the Club Treasurer.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-4-sec-6",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 6,
+              "title": "Duties of the Club Secretary",
+              "content": "The Club Secretary is the official custodian of all club records and seals. Duties include: (a) Recording and issuing official minutes of all meetings; (b) Maintaining the verified membership master roster and attendance logs; (c) Validating onboarding credentials and digital QR check-in records; (d) Preparing and transmitting required monthly activity and attendance reports to the Regional Executive Committee.",
+              "sortOrder": 6
+            },
+            {
+              "id": "art-4-sec-7",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 7,
+              "title": "Duties of the Club Treasurer",
+              "content": "The Club Treasurer is the custodian of club funds and finances. Duties include: (a) Collecting all membership dues, regional levies, national fees, assessments, and donations; (b) Issuing official receipts and logging transactions into the club ledger; (c) Disbursing funds strictly upon written voucher approved by the President; (d) Presenting audited monthly financial statements to the General Membership.",
+              "sortOrder": 7
+            }
+          ]
+        },
+        {
+          "id": "art-5",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 5,
+          "romanNumeral": "Article V",
+          "title": "Meetings, Quorum, and Attendance Tracking",
+          "sortOrder": 5,
+          "sections": [
+            {
+              "id": "art-5-sec-1",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 1,
+              "title": "Regular General Membership Meetings (GMM)",
+              "content": "Every chartered Club shall convene a regular General Membership Meeting (GMM) at least once every calendar month (or bi-monthly as stipulated in local club by-laws) to transact official business, discuss community service projects, and strengthen fraternal ties.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-5-sec-2",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 2,
+              "title": "Mandatory GMM Attendance and Tracking",
+              "content": "GMM attendance is mandatory for all active members. Attendance shall be officially verified and recorded through: (a) Digital QR code scanning via the AGILA Hub platform; (b) Member geofenced self-check-in; (c) Officer manual verification; or (d) Photo attendance evidence where required. Three (3) consecutive unexcused absences shall trigger review for inactive status.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-5-sec-3",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 3,
+              "title": "Quorum Requirements",
+              "content": "A simple majority (fifty percent plus one) of all active members in good standing of the Club shall constitute a valid quorum to conduct official business and vote on binding club resolutions. In the absence of a quorum, the presiding officer may declare a fellowship session, but no formal financial or constitutional decisions may be enacted.",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "art-6",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 6,
+          "romanNumeral": "Article VI",
+          "title": "Dues, Fees, and Financial Administration",
+          "sortOrder": 6,
+          "sections": [
+            {
+              "id": "art-6-sec-1",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 1,
+              "title": "Categories of Dues and Assessments",
+              "content": "Members are required to pay: (a) Monthly or Annual Club Membership Dues; (b) Regional Dues as mandated by the Regional Assembly; (c) National Capitation and Insurance Fees as determined by the National Assembly; and (d) Duly approved Special Assessments for emergency disaster relief or charter anniversaries.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-6-sec-2",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 2,
+              "title": "Delinquency and Suspension of Privileges",
+              "content": "Any member whose dues are in arrears for more than three (3) consecutive months shall be classified as Delinquent. A delinquent member forfeits the right to vote, run for office, or sponsor new applicants until all arrears are fully remitted to the Club Treasurer.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-7",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 7,
+          "romanNumeral": "Article VII",
+          "title": "Community Service and Humanitarian Mandate",
+          "sortOrder": 7,
+          "sections": [
+            {
+              "id": "art-7-sec-1",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 1,
+              "title": "Humanitarian Obligation",
+              "content": "Every chartered Club must conduct and report at least four (4) major community service projects per year, focusing on healthcare missions, education assistance (e.g. Brigada Eskwela), environmental sustainability (e.g. Tree Planting / Coastal Clean-up), and calamity emergency response.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-7-sec-2",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 2,
+              "title": "Project Task Tracking and Accomplishment Reports",
+              "content": "Project planning, volunteer mobilization, task assignment, and budget accounting must be digitally documented. Upon project culmination, the Community Service Chairman and Club Secretary shall generate a formal Accomplishment Report complete with beneficiary counts, financial expenditure audit, and photo evidence.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-8",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 8,
+          "romanNumeral": "Article VIII",
+          "title": "Authoritative e-Constitution and Automated Synchronization",
+          "sortOrder": 8,
+          "sections": [
+            {
+              "id": "art-8-sec-1",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 1,
+              "title": "Authoritative Source of Truth",
+              "content": "The official National e-Constitution portal hosted at https://e-constitution.tfoe-peinc.com/ is the sole authoritative and binding source of truth for the Constitution and By-Laws of The Fraternal Order of Eagles - Philippine Eagles, Inc. Local clubs and regions shall not alter, substitute, or maintain conflicting constitutional texts.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-8-sec-2",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 2,
+              "title": "Automated Retrieval and Immutable Versioning",
+              "content": "The AGILA Hub platform shall periodically check and synchronize content from the official National e-Constitution URL. Any detected amendment shall be verified via cryptographic hash, parsed, and recorded as an immutable version. If the national portal is temporarily unreachable, the last verified active version shall remain securely in effect.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-8-sec-3",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 3,
+              "title": "Constitution AI Grounding Mandate",
+              "content": "Any artificial intelligence or retrieval-augmented system operating within the AGILA Hub (Constitution AI) shall answer constitutional inquiries strictly and exclusively from the indexed provisions of the official e-Constitution. It must cite the specific Article and Section, state the active version, and explicitly decline questions lacking constitutional grounding.",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ],
+      "isCurrent": false,
+      "syncTimestamp": "2024-01-01 00:00:00 PST"
+    },
+    {
+      "id": "const-ver-2024-archived",
+      "version": "v2024.1",
+      "effectiveDate": "January 1, 2024",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "contentHash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+      "preamble": "We, the members of The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE), imploring the aid of Divine Providence, in order to establish an organization that shall embody our fraternal ideals and aspirations, foster genuine brotherhood, promote service to humanity, enhance visionary leadership, and protect the welfare of our people, do hereby promulgate and adopt this National Constitution and By-Laws.",
+      "articles": [
+        {
+          "id": "art-1",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 1,
+          "romanNumeral": "Article I",
+          "title": "Name, Seal, Motto, and Dominant Colors",
+          "sortOrder": 1,
+          "sections": [
+            {
+              "id": "art-1-sec-1",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 1,
+              "title": "Official Name",
+              "content": "The official name of this fraternal socio-civic organization shall be \"The Fraternal Order of Eagles - Philippine Eagles, Inc.\", officially abbreviated as TFOE-PE, Inc., an indigenous socio-civic fraternal movement founded in Quezon City, Philippines.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-1-sec-2",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 2,
+              "title": "Fraternal Greeting and Terminology",
+              "content": "In all fraternal gatherings, assemblies, communications, and official interactions, male members shall address each other with the fraternal title \"Kuya\" followed by their nickname or surname, and female members (Lady Eagles) shall be addressed as \"Ate\" followed by their nickname or surname, signifying deep-rooted Filipino fraternal respect and family bonds.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-1-sec-3",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 3,
+              "title": "Official Seal and Insignia",
+              "content": "The official seal of the Philippine Eagles shall bear the magnificent image of the Philippine Eagle (Pithecophaga jefferyi) with outstretched wings, surrounded by twelve golden rays and laurel leaves, symbolizing strength, vision, freedom, courage, and service to God, Country, and Humanity.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-1-sec-4",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 4,
+              "title": "Fraternal Motto",
+              "content": "The official motto of The Fraternal Order of Eagles - Philippine Eagles, Inc. shall be: \"Service Through Strong Brotherhood\" (Humanitarian Service), reflecting our pledge to lend a helping hand to the underprivileged and oppressed.",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "art-2",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 2,
+          "romanNumeral": "Article II",
+          "title": "Declaration of Principles and Objectives",
+          "sortOrder": 2,
+          "sections": [
+            {
+              "id": "art-2-sec-1",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 1,
+              "title": "Eagleism Defined",
+              "content": "Eagleism is humanitarian service through strong brotherhood. It is the living commitment of every Eagle to champion fellowship, mutual respect, benevolence, community empowerment, and civic responsibility without bias to political, religious, or ethnic distinctions.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-2-sec-2",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 2,
+              "title": "Core Fraternal Objectives",
+              "content": "The primary objectives of the Order are: (a) To bind together men and women of good moral character into an enduring bond of brotherhood; (b) To render humanitarian service and community relief to the poor and vulnerable; (c) To support civic, health, educational, and livelihood development throughout the Philippine archipelago and wherever Eagles congregate; (d) To instill intense patriotism and reverence for the Constitution and laws of the Republic of the Philippines.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-3",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 3,
+          "romanNumeral": "Article III",
+          "title": "Membership, Qualifications, and Rights",
+          "sortOrder": 3,
+          "sections": [
+            {
+              "id": "art-3-sec-1",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 1,
+              "title": "Qualifications for Membership",
+              "content": "Any individual seeking membership into the Philippine Eagles must possess the following qualifications: (a) Must be a citizen of the Philippines or a foreign national of exemplary repute; (b) Must be at least twenty-one (21) years of age; (c) Must believe in the existence of a Supreme Being (Divine Providence); (d) Must possess good moral character, integrity, and respectable social standing; (e) Must have a legitimate and honest means of livelihood, profession, or business; (f) Must be sponsored by at least two (2) members in good standing of the chartered Club.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-3-sec-2",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 2,
+              "title": "Classes of Membership",
+              "content": "The classes of membership shall be: (a) Regular Member — inducted after passing through the applicant orientation, Club committee background investigation, and ritual induction; (b) Charter Member — an Eagle listed on the official charter roll upon the Club's foundation; (c) Life Member — an Eagle of outstanding service granted permanent status under National rules; (d) Honorary Member — conferred upon distinguished citizens for eminent public service and dedication to the ideals of Eagleism.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-3-sec-3",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 3,
+              "title": "Single Primary Club Rule",
+              "content": "Every Eagle shall belong to only one (1) primary chartered Club at any given time. While an Eagle may hold regional and national positions simultaneously, or participate in fellowships across clubs, all official voting rights and membership dues remittances remain tied to their primary Club.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-3-sec-4",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 4,
+              "title": "Rights and Privileges of Members in Good Standing",
+              "content": "A member in good standing (MIGS) who is not delinquent in dues or under disciplinary sanction enjoys the right to: (a) Participate and vote in General Membership Meetings; (b) Elect and be elected or appointed to Club, Regional, or National positions; (c) Wear the official insignia and carry the digital or physical Eagles Identification Card; (d) Benefit from fraternal mutual-aid programs and legal/brotherhood assistance.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-3-sec-5",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 5,
+              "title": "Duties and Obligations of an Eagle",
+              "content": "Every Eagle is bounden duty: (a) To faithfully attend all regular General Membership Meetings (GMM) and scheduled Club service missions; (b) To promptly pay monthly club dues, regional levies, national capitation fees, and approved special assessments; (c) To defend and uphold the Constitution and By-Laws of TFOE-PE; (d) To assist a distressed brother or sister Eagle in times of calamity, sickness, or emergency.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-3-sec-6",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 6,
+              "title": "Membership Statuses and Grounds for Sanction",
+              "content": "Membership status may be Active, Inactive, Suspended, Resigned, Transferred, or Expelled. Any member who commits gross misconduct, acts inimical to the fraternal order, defrauds club funds, repeatedly fails to attend GMM without justifiable cause, or is convicted of a crime involving moral turpitude shall undergo due process before the Club Ethics and Grievance Committee, subject to review and confirmation by the Regional Executive Committee.",
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "art-4",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 4,
+          "romanNumeral": "Article IV",
+          "title": "Organizational Hierarchy, Officers, and Governance",
+          "sortOrder": 4,
+          "sections": [
+            {
+              "id": "art-4-sec-1",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 1,
+              "title": "Four-Tier Organizational Hierarchy",
+              "content": "The Order operates under a four-tier hierarchical governance: (1) National Assembly and National Executive Committee (NATEXECO); (2) Regional Assembly and Regional Executive Committee (REXECOM); (3) Chartered Eagles Clubs; and (4) Individual Eagle Members. Club autonomy is respected in local socio-civic initiatives while remaining subordinate to National policy and e-Constitution mandates.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-4-sec-2",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 2,
+              "title": "Club Executive Officers",
+              "content": "The Executive Officers of each chartered Club shall be: (a) President; (b) Vice President; (c) Club Secretary; (d) Club Treasurer; (e) Club Auditor; (f) Public Information Officer (PIO); (g) Protocol Officer / Sergeant-at-Arms; and (h) Community Service Committee Chairman. The Club may appoint committee heads and deputy coordinators as needed.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-4-sec-3",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 3,
+              "title": "Two-Year Officer Term and Term Limits",
+              "content": "All elected and appointed Club, Regional, and National officers shall serve a term of two (2) calendar years, commencing on January 1st following their election/induction and terminating on December 31st of their second year in office. No Club President shall serve more than two (2) consecutive terms in the same position.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-4-sec-4",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 4,
+              "title": "Simultaneous Position Holding",
+              "content": "A member in good standing may simultaneously hold a Club position, a Regional position (e.g. Regional Committee Chair, Deputy Governor), and a National position, provided that their primary Club duties are not compromised and no conflict of financial interest exists between the scopes.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-4-sec-5",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 5,
+              "title": "Duties of the Club President",
+              "content": "The Club President is the Chief Executive Officer of the chartered Club. Duties include: (a) Presiding over all General Membership Meetings and Executive Committee meetings; (b) Enforcing the Constitution, By-Laws, and Club resolutions; (c) Exercising general supervision over all club affairs and community projects; (d) Approving membership onboarding applications jointly with the Club Secretary; (e) Authorizing official disbursements jointly with the Club Treasurer.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-4-sec-6",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 6,
+              "title": "Duties of the Club Secretary",
+              "content": "The Club Secretary is the official custodian of all club records and seals. Duties include: (a) Recording and issuing official minutes of all meetings; (b) Maintaining the verified membership master roster and attendance logs; (c) Validating onboarding credentials and digital QR check-in records; (d) Preparing and transmitting required monthly activity and attendance reports to the Regional Executive Committee.",
+              "sortOrder": 6
+            },
+            {
+              "id": "art-4-sec-7",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 7,
+              "title": "Duties of the Club Treasurer",
+              "content": "The Club Treasurer is the custodian of club funds and finances. Duties include: (a) Collecting all membership dues, regional levies, national fees, assessments, and donations; (b) Issuing official receipts and logging transactions into the club ledger; (c) Disbursing funds strictly upon written voucher approved by the President; (d) Presenting audited monthly financial statements to the General Membership.",
+              "sortOrder": 7
+            }
+          ]
+        },
+        {
+          "id": "art-5",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 5,
+          "romanNumeral": "Article V",
+          "title": "Meetings, Quorum, and Attendance Tracking",
+          "sortOrder": 5,
+          "sections": [
+            {
+              "id": "art-5-sec-1",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 1,
+              "title": "Regular General Membership Meetings (GMM)",
+              "content": "Every chartered Club shall convene a regular General Membership Meeting (GMM) at least once every calendar month (or bi-monthly as stipulated in local club by-laws) to transact official business, discuss community service projects, and strengthen fraternal ties.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-5-sec-2",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 2,
+              "title": "Mandatory GMM Attendance and Tracking",
+              "content": "GMM attendance is mandatory for all active members. Attendance shall be officially verified and recorded through: (a) Digital QR code scanning via the AGILA Hub platform; (b) Member geofenced self-check-in; (c) Officer manual verification; or (d) Photo attendance evidence where required. Three (3) consecutive unexcused absences shall trigger review for inactive status.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-5-sec-3",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 3,
+              "title": "Quorum Requirements",
+              "content": "A simple majority (fifty percent plus one) of all active members in good standing of the Club shall constitute a valid quorum to conduct official business and vote on binding club resolutions. In the absence of a quorum, the presiding officer may declare a fellowship session, but no formal financial or constitutional decisions may be enacted.",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "art-6",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 6,
+          "romanNumeral": "Article VI",
+          "title": "Dues, Fees, and Financial Administration",
+          "sortOrder": 6,
+          "sections": [
+            {
+              "id": "art-6-sec-1",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 1,
+              "title": "Categories of Dues and Assessments",
+              "content": "Members are required to pay: (a) Monthly or Annual Club Membership Dues; (b) Regional Dues as mandated by the Regional Assembly; (c) National Capitation and Insurance Fees as determined by the National Assembly; and (d) Duly approved Special Assessments for emergency disaster relief or charter anniversaries.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-6-sec-2",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 2,
+              "title": "Delinquency and Suspension of Privileges",
+              "content": "Any member whose dues are in arrears for more than three (3) consecutive months shall be classified as Delinquent. A delinquent member forfeits the right to vote, run for office, or sponsor new applicants until all arrears are fully remitted to the Club Treasurer.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-7",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 7,
+          "romanNumeral": "Article VII",
+          "title": "Community Service and Humanitarian Mandate",
+          "sortOrder": 7,
+          "sections": [
+            {
+              "id": "art-7-sec-1",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 1,
+              "title": "Humanitarian Obligation",
+              "content": "Every chartered Club must conduct and report at least four (4) major community service projects per year, focusing on healthcare missions, education assistance (e.g. Brigada Eskwela), environmental sustainability (e.g. Tree Planting / Coastal Clean-up), and calamity emergency response.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-7-sec-2",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 2,
+              "title": "Project Task Tracking and Accomplishment Reports",
+              "content": "Project planning, volunteer mobilization, task assignment, and budget accounting must be digitally documented. Upon project culmination, the Community Service Chairman and Club Secretary shall generate a formal Accomplishment Report complete with beneficiary counts, financial expenditure audit, and photo evidence.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-8",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 8,
+          "romanNumeral": "Article VIII",
+          "title": "Authoritative e-Constitution and Automated Synchronization",
+          "sortOrder": 8,
+          "sections": [
+            {
+              "id": "art-8-sec-1",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 1,
+              "title": "Authoritative Source of Truth",
+              "content": "The official National e-Constitution portal hosted at https://e-constitution.tfoe-peinc.com/ is the sole authoritative and binding source of truth for the Constitution and By-Laws of The Fraternal Order of Eagles - Philippine Eagles, Inc. Local clubs and regions shall not alter, substitute, or maintain conflicting constitutional texts.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-8-sec-2",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 2,
+              "title": "Automated Retrieval and Immutable Versioning",
+              "content": "The AGILA Hub platform shall periodically check and synchronize content from the official National e-Constitution URL. Any detected amendment shall be verified via cryptographic hash, parsed, and recorded as an immutable version. If the national portal is temporarily unreachable, the last verified active version shall remain securely in effect.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-8-sec-3",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 3,
+              "title": "Constitution AI Grounding Mandate",
+              "content": "Any artificial intelligence or retrieval-augmented system operating within the AGILA Hub (Constitution AI) shall answer constitutional inquiries strictly and exclusively from the indexed provisions of the official e-Constitution. It must cite the specific Article and Section, state the active version, and explicitly decline questions lacking constitutional grounding.",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ],
+      "isCurrent": false,
+      "syncTimestamp": "2024-01-01 00:00:00 PST"
+    },
+    {
+      "id": "const-ver-2024-archived",
+      "version": "v2024.1",
+      "effectiveDate": "January 1, 2024",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "contentHash": "sha256:1111222233334444555566667777888899990000aaaaabbbbbcccccdddddeeeee",
+      "preamble": "We, the members of The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE), imploring the aid of Divine Providence, in order to establish an organization that shall embody our fraternal ideals and aspirations, foster genuine brotherhood, promote service to humanity, enhance visionary leadership, and protect the welfare of our people, do hereby promulgate and adopt this National Constitution and By-Laws.",
+      "articles": [
+        {
+          "id": "art-1",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 1,
+          "romanNumeral": "Article I",
+          "title": "Name, Seal, Motto, and Dominant Colors",
+          "sortOrder": 1,
+          "sections": [
+            {
+              "id": "art-1-sec-1",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 1,
+              "title": "Official Name",
+              "content": "The official name of this fraternal socio-civic organization shall be \"The Fraternal Order of Eagles - Philippine Eagles, Inc.\", officially abbreviated as TFOE-PE, Inc., an indigenous socio-civic fraternal movement founded in Quezon City, Philippines.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-1-sec-2",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 2,
+              "title": "Fraternal Greeting and Terminology",
+              "content": "In all fraternal gatherings, assemblies, communications, and official interactions, male members shall address each other with the fraternal title \"Kuya\" followed by their nickname or surname, and female members (Lady Eagles) shall be addressed as \"Ate\" followed by their nickname or surname, signifying deep-rooted Filipino fraternal respect and family bonds.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-1-sec-3",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 3,
+              "title": "Official Seal and Insignia",
+              "content": "The official seal of the Philippine Eagles shall bear the magnificent image of the Philippine Eagle (Pithecophaga jefferyi) with outstretched wings, surrounded by twelve golden rays and laurel leaves, symbolizing strength, vision, freedom, courage, and service to God, Country, and Humanity.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-1-sec-4",
+              "articleId": "art-1",
+              "articleRoman": "Article I",
+              "sectionNumber": 4,
+              "title": "Fraternal Motto",
+              "content": "The official motto of The Fraternal Order of Eagles - Philippine Eagles, Inc. shall be: \"Service Through Strong Brotherhood\" (Humanitarian Service), reflecting our pledge to lend a helping hand to the underprivileged and oppressed.",
+              "sortOrder": 4
+            }
+          ]
+        },
+        {
+          "id": "art-2",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 2,
+          "romanNumeral": "Article II",
+          "title": "Declaration of Principles and Objectives",
+          "sortOrder": 2,
+          "sections": [
+            {
+              "id": "art-2-sec-1",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 1,
+              "title": "Eagleism Defined",
+              "content": "Eagleism is humanitarian service through strong brotherhood. It is the living commitment of every Eagle to champion fellowship, mutual respect, benevolence, community empowerment, and civic responsibility without bias to political, religious, or ethnic distinctions.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-2-sec-2",
+              "articleId": "art-2",
+              "articleRoman": "Article II",
+              "sectionNumber": 2,
+              "title": "Core Fraternal Objectives",
+              "content": "The primary objectives of the Order are: (a) To bind together men and women of good moral character into an enduring bond of brotherhood; (b) To render humanitarian service and community relief to the poor and vulnerable; (c) To support civic, health, educational, and livelihood development throughout the Philippine archipelago and wherever Eagles congregate; (d) To instill intense patriotism and reverence for the Constitution and laws of the Republic of the Philippines.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-3",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 3,
+          "romanNumeral": "Article III",
+          "title": "Membership, Qualifications, and Rights",
+          "sortOrder": 3,
+          "sections": [
+            {
+              "id": "art-3-sec-1",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 1,
+              "title": "Qualifications for Membership",
+              "content": "Any individual seeking membership into the Philippine Eagles must possess the following qualifications: (a) Must be a citizen of the Philippines or a foreign national of exemplary repute; (b) Must be at least twenty-one (21) years of age; (c) Must believe in the existence of a Supreme Being (Divine Providence); (d) Must possess good moral character, integrity, and respectable social standing; (e) Must have a legitimate and honest means of livelihood, profession, or business; (f) Must be sponsored by at least two (2) members in good standing of the chartered Club.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-3-sec-2",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 2,
+              "title": "Classes of Membership",
+              "content": "The classes of membership shall be: (a) Regular Member — inducted after passing through the applicant orientation, Club committee background investigation, and ritual induction; (b) Charter Member — an Eagle listed on the official charter roll upon the Club's foundation; (c) Life Member — an Eagle of outstanding service granted permanent status under National rules; (d) Honorary Member — conferred upon distinguished citizens for eminent public service and dedication to the ideals of Eagleism.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-3-sec-3",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 3,
+              "title": "Single Primary Club Rule",
+              "content": "Every Eagle shall belong to only one (1) primary chartered Club at any given time. While an Eagle may hold regional and national positions simultaneously, or participate in fellowships across clubs, all official voting rights and membership dues remittances remain tied to their primary Club.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-3-sec-4",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 4,
+              "title": "Rights and Privileges of Members in Good Standing",
+              "content": "A member in good standing (MIGS) who is not delinquent in dues or under disciplinary sanction enjoys the right to: (a) Participate and vote in General Membership Meetings; (b) Elect and be elected or appointed to Club, Regional, or National positions; (c) Wear the official insignia and carry the digital or physical Eagles Identification Card; (d) Benefit from fraternal mutual-aid programs and legal/brotherhood assistance.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-3-sec-5",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 5,
+              "title": "Duties and Obligations of an Eagle",
+              "content": "Every Eagle is bounden duty: (a) To faithfully attend all regular General Membership Meetings (GMM) and scheduled Club service missions; (b) To promptly pay monthly club dues, regional levies, national capitation fees, and approved special assessments; (c) To defend and uphold the Constitution and By-Laws of TFOE-PE; (d) To assist a distressed brother or sister Eagle in times of calamity, sickness, or emergency.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-3-sec-6",
+              "articleId": "art-3",
+              "articleRoman": "Article III",
+              "sectionNumber": 6,
+              "title": "Membership Statuses and Grounds for Sanction",
+              "content": "Membership status may be Active, Inactive, Suspended, Resigned, Transferred, or Expelled. Any member who commits gross misconduct, acts inimical to the fraternal order, defrauds club funds, repeatedly fails to attend GMM without justifiable cause, or is convicted of a crime involving moral turpitude shall undergo due process before the Club Ethics and Grievance Committee, subject to review and confirmation by the Regional Executive Committee.",
+              "sortOrder": 6
+            }
+          ]
+        },
+        {
+          "id": "art-4",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 4,
+          "romanNumeral": "Article IV",
+          "title": "Organizational Hierarchy, Officers, and Governance",
+          "sortOrder": 4,
+          "sections": [
+            {
+              "id": "art-4-sec-1",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 1,
+              "title": "Four-Tier Organizational Hierarchy",
+              "content": "The Order operates under a four-tier hierarchical governance: (1) National Assembly and National Executive Committee (NATEXECO); (2) Regional Assembly and Regional Executive Committee (REXECOM); (3) Chartered Eagles Clubs; and (4) Individual Eagle Members. Club autonomy is respected in local socio-civic initiatives while remaining subordinate to National policy and e-Constitution mandates.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-4-sec-2",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 2,
+              "title": "Club Executive Officers",
+              "content": "The Executive Officers of each chartered Club shall be: (a) President; (b) Vice President; (c) Club Secretary; (d) Club Treasurer; (e) Club Auditor; (f) Public Information Officer (PIO); (g) Protocol Officer / Sergeant-at-Arms; and (h) Community Service Committee Chairman. The Club may appoint committee heads and deputy coordinators as needed.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-4-sec-3",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 3,
+              "title": "Two-Year Officer Term and Term Limits",
+              "content": "All elected and appointed Club, Regional, and National officers shall serve a term of two (2) calendar years, commencing on January 1st following their election/induction and terminating on December 31st of their second year in office. No Club President shall serve more than two (2) consecutive terms in the same position.",
+              "sortOrder": 3
+            },
+            {
+              "id": "art-4-sec-4",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 4,
+              "title": "Simultaneous Position Holding",
+              "content": "A member in good standing may simultaneously hold a Club position, a Regional position (e.g. Regional Committee Chair, Deputy Governor), and a National position, provided that their primary Club duties are not compromised and no conflict of financial interest exists between the scopes.",
+              "sortOrder": 4
+            },
+            {
+              "id": "art-4-sec-5",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 5,
+              "title": "Duties of the Club President",
+              "content": "The Club President is the Chief Executive Officer of the chartered Club. Duties include: (a) Presiding over all General Membership Meetings and Executive Committee meetings; (b) Enforcing the Constitution, By-Laws, and Club resolutions; (c) Exercising general supervision over all club affairs and community projects; (d) Approving membership onboarding applications jointly with the Club Secretary; (e) Authorizing official disbursements jointly with the Club Treasurer.",
+              "sortOrder": 5
+            },
+            {
+              "id": "art-4-sec-6",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 6,
+              "title": "Duties of the Club Secretary",
+              "content": "The Club Secretary is the official custodian of all club records and seals. Duties include: (a) Recording and issuing official minutes of all meetings; (b) Maintaining the verified membership master roster and attendance logs; (c) Validating onboarding credentials and digital QR check-in records; (d) Preparing and transmitting required monthly activity and attendance reports to the Regional Executive Committee.",
+              "sortOrder": 6
+            },
+            {
+              "id": "art-4-sec-7",
+              "articleId": "art-4",
+              "articleRoman": "Article IV",
+              "sectionNumber": 7,
+              "title": "Duties of the Club Treasurer",
+              "content": "The Club Treasurer is the custodian of club funds and finances. Duties include: (a) Collecting all membership dues, regional levies, national fees, assessments, and donations; (b) Issuing official receipts and logging transactions into the club ledger; (c) Disbursing funds strictly upon written voucher approved by the President; (d) Presenting audited monthly financial statements to the General Membership.",
+              "sortOrder": 7
+            }
+          ]
+        },
+        {
+          "id": "art-5",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 5,
+          "romanNumeral": "Article V",
+          "title": "Meetings, Quorum, and Attendance Tracking",
+          "sortOrder": 5,
+          "sections": [
+            {
+              "id": "art-5-sec-1",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 1,
+              "title": "Regular General Membership Meetings (GMM)",
+              "content": "Every chartered Club shall convene a regular General Membership Meeting (GMM) at least once every calendar month (or bi-monthly as stipulated in local club by-laws) to transact official business, discuss community service projects, and strengthen fraternal ties.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-5-sec-2",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 2,
+              "title": "Mandatory GMM Attendance and Tracking",
+              "content": "GMM attendance is mandatory for all active members. Attendance shall be officially verified and recorded through: (a) Digital QR code scanning via the AGILA Hub platform; (b) Member geofenced self-check-in; (c) Officer manual verification; or (d) Photo attendance evidence where required. Three (3) consecutive unexcused absences shall trigger review for inactive status.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-5-sec-3",
+              "articleId": "art-5",
+              "articleRoman": "Article V",
+              "sectionNumber": 3,
+              "title": "Quorum Requirements",
+              "content": "A simple majority (fifty percent plus one) of all active members in good standing of the Club shall constitute a valid quorum to conduct official business and vote on binding club resolutions. In the absence of a quorum, the presiding officer may declare a fellowship session, but no formal financial or constitutional decisions may be enacted.",
+              "sortOrder": 3
+            }
+          ]
+        },
+        {
+          "id": "art-6",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 6,
+          "romanNumeral": "Article VI",
+          "title": "Dues, Fees, and Financial Administration",
+          "sortOrder": 6,
+          "sections": [
+            {
+              "id": "art-6-sec-1",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 1,
+              "title": "Categories of Dues and Assessments",
+              "content": "Members are required to pay: (a) Monthly or Annual Club Membership Dues; (b) Regional Dues as mandated by the Regional Assembly; (c) National Capitation and Insurance Fees as determined by the National Assembly; and (d) Duly approved Special Assessments for emergency disaster relief or charter anniversaries.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-6-sec-2",
+              "articleId": "art-6",
+              "articleRoman": "Article VI",
+              "sectionNumber": 2,
+              "title": "Delinquency and Suspension of Privileges",
+              "content": "Any member whose dues are in arrears for more than three (3) consecutive months shall be classified as Delinquent. A delinquent member forfeits the right to vote, run for office, or sponsor new applicants until all arrears are fully remitted to the Club Treasurer.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-7",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 7,
+          "romanNumeral": "Article VII",
+          "title": "Community Service and Humanitarian Mandate",
+          "sortOrder": 7,
+          "sections": [
+            {
+              "id": "art-7-sec-1",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 1,
+              "title": "Humanitarian Obligation",
+              "content": "Every chartered Club must conduct and report at least four (4) major community service projects per year, focusing on healthcare missions, education assistance (e.g. Brigada Eskwela), environmental sustainability (e.g. Tree Planting / Coastal Clean-up), and calamity emergency response.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-7-sec-2",
+              "articleId": "art-7",
+              "articleRoman": "Article VII",
+              "sectionNumber": 2,
+              "title": "Project Task Tracking and Accomplishment Reports",
+              "content": "Project planning, volunteer mobilization, task assignment, and budget accounting must be digitally documented. Upon project culmination, the Community Service Chairman and Club Secretary shall generate a formal Accomplishment Report complete with beneficiary counts, financial expenditure audit, and photo evidence.",
+              "sortOrder": 2
+            }
+          ]
+        },
+        {
+          "id": "art-8",
+          "constitutionId": "const-2026-1",
+          "articleNumber": 8,
+          "romanNumeral": "Article VIII",
+          "title": "Authoritative e-Constitution and Automated Synchronization",
+          "sortOrder": 8,
+          "sections": [
+            {
+              "id": "art-8-sec-1",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 1,
+              "title": "Authoritative Source of Truth",
+              "content": "The official National e-Constitution portal hosted at https://e-constitution.tfoe-peinc.com/ is the sole authoritative and binding source of truth for the Constitution and By-Laws of The Fraternal Order of Eagles - Philippine Eagles, Inc. Local clubs and regions shall not alter, substitute, or maintain conflicting constitutional texts.",
+              "sortOrder": 1
+            },
+            {
+              "id": "art-8-sec-2",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 2,
+              "title": "Automated Retrieval and Immutable Versioning",
+              "content": "The AGILA Hub platform shall periodically check and synchronize content from the official National e-Constitution URL. Any detected amendment shall be verified via cryptographic hash, parsed, and recorded as an immutable version. If the national portal is temporarily unreachable, the last verified active version shall remain securely in effect.",
+              "sortOrder": 2
+            },
+            {
+              "id": "art-8-sec-3",
+              "articleId": "art-8",
+              "articleRoman": "Article VIII",
+              "sectionNumber": 3,
+              "title": "Constitution AI Grounding Mandate",
+              "content": "Any artificial intelligence or retrieval-augmented system operating within the AGILA Hub (Constitution AI) shall answer constitutional inquiries strictly and exclusively from the indexed provisions of the official e-Constitution. It must cite the specific Article and Section, state the active version, and explicitly decline questions lacking constitutional grounding.",
+              "sortOrder": 3
+            }
+          ]
+        }
+      ],
+      "isCurrent": false,
+      "syncTimestamp": "2024-01-01 00:00:00 PST"
+    }
+  ],
+  "constitutionSyncRuns": [
+    {
+      "id": "sync-1",
+      "sourceUrl": "https://e-constitution.tfoe-peinc.com/",
+      "startedAt": "2026-09-30 03:00:00 PST",
+      "completedAt": "2026-09-30 03:00:04 PST",
+      "status": "SUCCESS",
+      "previousHash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+      "newHash": "sha256:7f92b49c0d9a6c1e30a597e74fd712bc90a88ef114b397de8e48950d98ad4421",
+      "versionDetected": "v2026.1 (National e-Constitution Portal)",
+      "recordsCreated": 8
+    }
+  ],
+  "constitutionQueries": [],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "recipientId": "mem-camacho",
+      "title": "Upcoming Regular GMM (Oct 10)",
+      "body": "Bantayog Elite 2nd Regular GMM is scheduled for Saturday at 6:00 PM. Please bring your Digital ID for QR attendance check-in.",
+      "type": "Meeting Notice",
+      "channel": "IN_APP",
+      "status": "SENT",
+      "targetScope": "club-beec",
+      "createdAt": "2026-10-02 09:00 PST"
+    }
+  ],
+  "usedQRNonces": {},
+  "sessions": {
+    "agila_sess_4e45d32447447664066fb1a602d4fedb64f514225ecb5180f276641cf6ebe150": {
+      "memberId": "mem-camacho",
+      "expiresAt": 1791072497538
+    }
+  }
+}

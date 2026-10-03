@@ -1,0 +1,6 @@
+{
+  "name": "AGILA Hub — TFOE-PE",
+  "description": "AGILA Hub is the official digital platform for The Fraternal Order of Eagles - Philippine Eagles, Inc. (TFOE-PE, Inc.), providing membership management, digital IDs, QR attendance, community service project collaboration, dues tracking, audit trails, and Constitution AI RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
